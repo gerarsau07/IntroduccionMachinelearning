@@ -1,0 +1,1201 @@
+﻿Nombre_Profesionista,Carrera,Rol,Tecnologia_Principal,Anios_Experiencia,Nivel_Ingles,Ciudad,Salario_Mensual_Neto
+Sessa Mata,Licenciatura en Matemáticas Aplicadas,QA Engineer,C#,7,Intermedio,Remoto Internacional,71500.0
+Gerardo Juana Montalvo Echeverría,Ingeniería en Inteligencia Artificial,Data Analyst,PHP,8,Avanzado,Monterrey,80900.0
+Lic. Micaela Jáquez,Ingeniería de Software,Frontend Developer,Swift,7,Intermedio,Monterrey,56700.0
+Karina Tamayo Carvajal,Ingeniería Mecatrónica,Fullstack Developer,PHP,7,Intermedio,Remoto Nacional,49800.0
+Frida de Anda Venegas,Licenciatura en Actuaría,Tech Lead,Go,13,Intermedio,Monterrey,112900.0
+Octavio Longoria Castellanos,Ingeniería en Inteligencia Artificial,Backend Developer,R,8,Básico,CDMX,56200.0
+Leonor Elisa Olivares Frías,Ingeniería de Software,Machine Learning Engineer,R,6,Básico,Mérida,43500.0
+Eugenio Nancy Ybarra,Ingeniería Mecatrónica,Frontend Developer,R,8,Básico,Guadalajara,52700.0
+Luis Miguel Humberto Alvarado,Ingeniería Mecatrónica,DevOps Engineer,Java,6,Avanzado,Mérida,60900.0
+Diana Patricia Marroquín,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Python,5,Básico,Mérida,32700.0
+María Luisa Heredia Méndez,Licenciatura en Actuaría,Junior Developer,JavaScript,1,Intermedio,Guadalajara,24300.0
+José Carlos Dávila Ayala,Ingeniería en Inteligencia Artificial,Tech Lead,Swift,14,Intermedio,CDMX,117300.0
+Sr(a). Camilo Briones,Licenciatura en Matemáticas Aplicadas,Data Analyst,Swift,10,Avanzado,Guadalajara,78600.0
+María de la O Mayorga,Ingeniería de Software,Machine Learning Engineer,Java,3,Intermedio,Monterrey,62900.0
+Dr. Cristina Barela,Ingeniería Mecatrónica,Data Scientist,R,4,Básico,Mérida,41200.0
+Eugenia Almonte,Ingeniería en Inteligencia Artificial,Data Analyst,Go,3,Intermedio,Puebla,36100.0
+Alvaro Daniel Limón Vigil,Licenciatura en Actuaría,Data Analyst,JavaScript,7,Avanzado,Remoto Nacional,59000.0
+Mtro. Joaquín Pelayo,Ingeniería Mecatrónica,Tech Lead,Java,12,Intermedio,Remoto Nacional,86700.0
+Esmeralda Benavídez,Ingeniería de Software,Junior Developer,Python,0,Intermedio,Guadalajara,22600.0
+Alonso Espartaco Ríos Zaragoza,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Go,2,Avanzado,Mérida,60500.0
+Óscar Aguilar,Licenciatura en Ciencia de Datos,Tech Lead,C#,15,Avanzado,Puebla,122300.0
+Laura Juárez Arguello,Ingeniería de Software,Backend Developer,JavaScript,4,Intermedio,CDMX,47800.0
+Socorro Zúñiga,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Go,7,Avanzado,CDMX,108900.0
+Ing. Aldo Gurule,Licenciatura en Matemáticas Aplicadas,Data Analyst,Go,8,Básico,Monterrey,44900.0
+Hilda Humberto Laureano Saucedo,Ingeniería en Telemática,Junior Developer,C#,1,Intermedio,Monterrey,24200.0
+José Eduardo Palomino,Ingeniería en Inteligencia Artificial,Fullstack Developer,JavaScript,2,Básico,Remoto Nacional,34100.0
+Dr. Ernesto Jiménez,Ingeniería de Software,Tech Lead,Java,7,Intermedio,Puebla,75800.0
+Evelio Balderas,Ingeniería en Telemática,Junior Developer,R,1,Avanzado,Monterrey,33300.0
+Violeta Marín,Ingeniería en Inteligencia Artificial,Tech Lead,Go,11,Avanzado,Monterrey,132600.0
+Florencia Leal,Licenciatura en Ciencia de Datos,QA Engineer,JavaScript,2,Básico,Mérida,23700.0
+Alma Quiñónez,Ingeniería Mecatrónica,DevOps Engineer,PHP,2,Avanzado,Guadalajara,66700.0
+Marco Antonio Villegas Niño,Licenciatura en Matemáticas Aplicadas,Frontend Developer,PHP,4,Intermedio,CDMX,48500.0
+Estela Rodolfo Espinosa Pulido,Ingeniería en Inteligencia Artificial,QA Engineer,R,8,Avanzado,Remoto Nacional,64900.0
+Ing. Pascual Borrego,Licenciatura en Ciencia de Datos,Machine Learning Engineer,PHP,9,Básico,Guadalajara,76000.0
+Marcos Lerma,Ingeniería en Inteligencia Artificial,DevOps Engineer,Go,5,Básico,Guadalajara,50000.0
+Olivia Cristian de León,Ingeniería Mecatrónica,DevOps Engineer,Swift,2,Intermedio,Puebla,42500.0
+Vicente Vásquez Arteaga,Ingeniería de Software,Junior Developer,Python,1,Avanzado,Monterrey,36100.0
+Dulce Velasco,Ingeniería Mecatrónica,Data Analyst,Python,9,Intermedio,Remoto Nacional,51200.0
+Mtro. Jacobo Casárez,Ingeniería en Sistemas Computacionales,Frontend Developer,C#,1,Básico,Mérida,20700.0
+Ruby Almanza,Ingeniería de Software,DevOps Engineer,R,9,Intermedio,Remoto Internacional,103400.0
+María Cristina Castillo,Ingeniería en Telemática,Frontend Developer,C#,8,Intermedio,Monterrey,54900.0
+Marisela Manuel Hidalgo,Ingeniería de Software,Tech Lead,C#,8,Básico,Querétaro,76500.0
+Rodrigo Juan Benavídez,Ingeniería en Sistemas Computacionales,Junior Developer,Swift,2,Intermedio,Remoto Nacional,25400.0
+Claudia Ángel Menchaca Alarcón,Ingeniería de Software,Data Analyst,Python,5,Básico,Guadalajara,43100.0
+Mtro. Carlos Guerrero,Ingeniería en Sistemas Computacionales,Backend Developer,Swift,10,Intermedio,Remoto Internacional,83100.0
+Santiago Conchita Lozano,Ingeniería en Inteligencia Artificial,Fullstack Developer,Go,7,Avanzado,Puebla,74000.0
+Víctor Carmona Barreto,Ingeniería de Software,DevOps Engineer,PHP,2,Básico,Mérida,30600.0
+Jerónimo Germán Palomino Osorio,Licenciatura en Ciencia de Datos,Junior Developer,C#,2,Avanzado,Remoto Nacional,30800.0
+Gregorio Guerrero,Licenciatura en Actuaría,DevOps Engineer,Go,8,Básico,Remoto Nacional,53700.0
+Mtro. Karina Bustos,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Swift,8,Básico,Mérida,49800.0
+Gerónimo Lilia Archuleta Zúñiga,Ingeniería de Software,Junior Developer,C#,2,Básico,Mérida,17900.0
+Bernabé Martha Baeza Menéndez,Licenciatura en Ciencia de Datos,Data Analyst,Python,5,Básico,Remoto Nacional,37800.0
+Patricia Lucio Nieves,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,PHP,3,Avanzado,Remoto Nacional,66500.0
+Genaro Padilla,Licenciatura en Matemáticas Aplicadas,QA Engineer,JavaScript,10,Intermedio,Remoto Nacional,51100.0
+Ing. Citlali Paredes,Ingeniería en Telemática,Frontend Developer,Python,7,Intermedio,Guadalajara,50800.0
+Clara Nancy Mena,Licenciatura en Actuaría,Machine Learning Engineer,C#,10,Básico,Remoto Nacional,57000.0
+Soledad Palacios,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Python,3,Avanzado,Puebla,62700.0
+Antonia Camarillo Fajardo,Ingeniería Mecatrónica,Backend Developer,Swift,7,Avanzado,Remoto Nacional,67700.0
+Lic. Eduardo Arreola,Licenciatura en Matemáticas Aplicadas,QA Engineer,JavaScript,4,Intermedio,Monterrey,45900.0
+Lorenzo Márquez,Ingeniería en Sistemas Computacionales,DevOps Engineer,Java,7,Básico,Mérida,45500.0
+Lic. Israel Rivera,Licenciatura en Actuaría,Machine Learning Engineer,JavaScript,4,Intermedio,Monterrey,74000.0
+Ing. Leonel Duarte,Ingeniería de Software,Tech Lead,C#,12,Avanzado,Puebla,116500.0
+Berta Jacobo Carrasco Roldán,Ingeniería Mecatrónica,Fullstack Developer,C#,6,Básico,Remoto Internacional,69400.0
+Mtro. Rubén Cortés,Ingeniería en Sistemas Computacionales,Junior Developer,PHP,1,Intermedio,CDMX,26800.0
+Ángela Rubio,Ingeniería en Sistemas Computacionales,Frontend Developer,R,9,Intermedio,Querétaro,52800.0
+Marisol Palomo,Ingeniería en Sistemas Computacionales,DevOps Engineer,JavaScript,4,Avanzado,Puebla,68900.0
+Gerardo Marcos Camarillo Alcaraz,Ingeniería de Software,Fullstack Developer,R,10,Avanzado,Remoto Internacional,117600.0
+Ana María José María Gómez Zarate,Ingeniería Mecatrónica,Junior Developer,Go,0,Avanzado,Remoto Nacional,23100.0
+Alfredo Cornelio Velázquez Valdés,Ingeniería en Sistemas Computacionales,Tech Lead,PHP,6,Intermedio,CDMX,89300.0
+Victoria Armas,Ingeniería en Telemática,DevOps Engineer,Java,9,Intermedio,Querétaro,73000.0
+Sr(a). Mercedes Puga,Ingeniería de Software,Machine Learning Engineer,JavaScript,9,Avanzado,Remoto Internacional,139500.0
+Noelia Durán Cervántez,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,C#,6,Intermedio,Monterrey,75200.0
+Abril Villegas,Ingeniería en Telemática,Tech Lead,JavaScript,14,Avanzado,Mérida,122000.0
+Alberto Aurelio Casillas Macías,Ingeniería en Telemática,Frontend Developer,R,1,Avanzado,CDMX,45200.0
+Esther Cristal Navarro,Ingeniería en Telemática,Junior Developer,PHP,2,Avanzado,Guadalajara,34400.0
+Carla Mariana Quintana,Licenciatura en Matemáticas Aplicadas,Data Analyst,Java,8,Avanzado,Querétaro,73400.0
+Pablo Varela Barragán,Licenciatura en Ciencia de Datos,DevOps Engineer,R,1,Avanzado,Monterrey,59500.0
+Dr. Dulce Aguilera,Ingeniería en Inteligencia Artificial,Fullstack Developer,JavaScript,10,Básico,Remoto Nacional,57900.0
+Abraham Silvano Sierra Paredes,Ingeniería Mecatrónica,DevOps Engineer,JavaScript,7,Avanzado,Querétaro,83100.0
+Raquel Adriana Serrano Torres,Ingeniería en Sistemas Computacionales,Fullstack Developer,Swift,1,Básico,Monterrey,33500.0
+Sara Tejada Rodarte,Licenciatura en Matemáticas Aplicadas,QA Engineer,PHP,8,Básico,Guadalajara,41700.0
+Samuel Eva Casas,Ingeniería en Inteligencia Artificial,Data Analyst,Python,1,Intermedio,Querétaro,33800.0
+Guillermo Amalia Cano,Ingeniería Mecatrónica,Tech Lead,C#,11,Avanzado,Monterrey,132700.0
+Dr. Carmen Montemayor,Licenciatura en Ciencia de Datos,QA Engineer,JavaScript,1,Intermedio,Remoto Internacional,41600.0
+Isabel Rael,Ingeniería Mecatrónica,Data Scientist,JavaScript,2,Avanzado,Puebla,61200.0
+Alejandro Amalia Balderas,Ingeniería en Telemática,Frontend Developer,Java,10,Intermedio,Monterrey,74600.0
+Lic. Teresa Montero,Ingeniería en Inteligencia Artificial,QA Engineer,C#,7,Avanzado,Remoto Internacional,93100.0
+Itzel Hinojosa Zayas,Ingeniería en Inteligencia Artificial,DevOps Engineer,Python,8,Básico,Guadalajara,56700.0
+Alta  Gracia Yolanda Pichardo,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,JavaScript,6,Intermedio,Remoto Nacional,61900.0
+Lorena Rodolfo Porras Rocha,Licenciatura en Actuaría,QA Engineer,Java,4,Básico,Puebla,31300.0
+Verónica Avilés,Licenciatura en Actuaría,Backend Developer,R,6,Básico,Querétaro,42300.0
+Lic. María Teresa Vanegas,Ingeniería de Software,Data Scientist,Swift,1,Básico,Puebla,33100.0
+Carla Salma Muñiz Jaimes,Ingeniería en Inteligencia Artificial,QA Engineer,Python,6,Intermedio,Guadalajara,50200.0
+Dr. Victoria Feliciano,Licenciatura en Matemáticas Aplicadas,Data Analyst,Swift,3,Avanzado,Remoto Internacional,72100.0
+Frida Centeno,Licenciatura en Matemáticas Aplicadas,Data Analyst,Go,4,Intermedio,CDMX,41600.0
+Marisol Eduardo Camarillo Santillán,Ingeniería en Sistemas Computacionales,Junior Developer,C#,2,Avanzado,Guadalajara,39100.0
+Mtro. Francisco Javier Lemus,Licenciatura en Matemáticas Aplicadas,QA Engineer,PHP,4,Intermedio,Mérida,33300.0
+Espartaco Cazares,Ingeniería en Telemática,Backend Developer,R,4,Avanzado,Remoto Nacional,60900.0
+Héctor Muñoz Saucedo,Ingeniería en Inteligencia Artificial,Backend Developer,Swift,8,Básico,Remoto Nacional,44000.0
+Martín Raquel Mena,Ingeniería de Software,Tech Lead,JavaScript,7,Básico,Remoto Nacional,72100.0
+Miguel Ángel René Vázquez Tamez,Licenciatura en Ciencia de Datos,Data Scientist,Go,9,Intermedio,Querétaro,66800.0
+Israel Vergara,Ingeniería de Software,Machine Learning Engineer,Java,7,Intermedio,Mérida,60400.0
+Salma Chavarría Véliz,Ingeniería en Telemática,Data Analyst,Python,10,Intermedio,Monterrey,63300.0
+Mtro. Lucas Granado,Ingeniería en Inteligencia Artificial,Data Scientist,R,10,Básico,Remoto Nacional,65800.0
+Hugo Escobedo Esparza,Ingeniería Mecatrónica,Data Analyst,Java,4,Intermedio,Puebla,36700.0
+Sr(a). Frida Menchaca,Ingeniería en Sistemas Computacionales,DevOps Engineer,C#,2,Básico,Remoto Internacional,61000.0
+Silvano Gonzalo Otero Vega,Licenciatura en Matemáticas Aplicadas,Backend Developer,C#,5,Avanzado,Remoto Internacional,97200.0
+Pascual Jerónimo Espinoza,Licenciatura en Ciencia de Datos,Fullstack Developer,Java,7,Avanzado,Remoto Internacional,105700.0
+Armando Alicia Olivas,Licenciatura en Actuaría,DevOps Engineer,Go,3,Básico,Puebla,39000.0
+Adela Esmeralda Negrón Maestas,Licenciatura en Ciencia de Datos,Tech Lead,PHP,8,Básico,Guadalajara,86200.0
+Gustavo David Trejo Zepeda,Licenciatura en Actuaría,Backend Developer,Python,6,Básico,CDMX,50700.0
+Caridad Francisco Javier Garay Patiño,Ingeniería en Sistemas Computacionales,Backend Developer,Java,8,Avanzado,Remoto Nacional,77100.0
+Carla Hernandes,Licenciatura en Matemáticas Aplicadas,Data Analyst,JavaScript,1,Básico,Mérida,20600.0
+Paola Villalpando,Ingeniería en Inteligencia Artificial,Data Analyst,PHP,6,Intermedio,Puebla,43600.0
+Flavio Lourdes Barraza,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,PHP,3,Básico,Puebla,32900.0
+Ing. Trinidad Alcala,Ingeniería de Software,Junior Developer,Python,0,Avanzado,Remoto Nacional,24800.0
+Margarita Julio César Lucio,Licenciatura en Matemáticas Aplicadas,Backend Developer,Go,2,Intermedio,Puebla,31900.0
+Lic. Cornelio Rincón,Ingeniería Mecatrónica,QA Engineer,JavaScript,2,Avanzado,Puebla,37900.0
+Genaro Briones,Ingeniería en Telemática,Junior Developer,JavaScript,2,Básico,Remoto Nacional,20600.0
+Genaro Jonás Paz,Ingeniería en Inteligencia Artificial,Junior Developer,PHP,0,Intermedio,Puebla,16000.0
+Oswaldo Ozuna Carranza,Ingeniería en Sistemas Computacionales,QA Engineer,Python,4,Intermedio,Puebla,32400.0
+Humberto Julio César Fernández Avilés,Ingeniería en Telemática,Junior Developer,JavaScript,0,Básico,Guadalajara,16100.0
+Cynthia Nadia Velasco Roque,Ingeniería en Sistemas Computacionales,Backend Developer,JavaScript,8,Avanzado,Puebla,70400.0
+Norma Escalante,Ingeniería en Telemática,Data Analyst,Swift,7,Avanzado,CDMX,79200.0
+Emilio Peralta Mascareñas,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,R,1,Avanzado,Puebla,62100.0
+Francisco Javier Aguilera,Licenciatura en Actuaría,Machine Learning Engineer,Python,3,Avanzado,Remoto Nacional,74800.0
+Ing. Julio César Rincón,Ingeniería de Software,Tech Lead,C#,11,Básico,Querétaro,77200.0
+Tania Mata Alba,Ingeniería en Telemática,QA Engineer,PHP,6,Avanzado,Remoto Nacional,61400.0
+Pedro Cadena,Ingeniería en Sistemas Computacionales,Frontend Developer,Swift,3,Avanzado,Querétaro,55300.0
+Ing. Lucas Laboy,Ingeniería Mecatrónica,Data Scientist,Java,2,Básico,Querétaro,40700.0
+Carlos Haro,Licenciatura en Actuaría,Tech Lead,Java,6,Básico,Remoto Internacional,99000.0
+Lic. Aida Carranza,Licenciatura en Ciencia de Datos,Tech Lead,Python,6,Intermedio,Guadalajara,84200.0
+Sr(a). Hugo Rodarte,Ingeniería en Sistemas Computacionales,Tech Lead,Go,8,Avanzado,Querétaro,119300.0
+Cristobal Ricardo Barrera,Licenciatura en Ciencia de Datos,Junior Developer,Swift,0,Básico,CDMX,16400.0
+Yuridia Nancy Pedroza,Licenciatura en Ciencia de Datos,DevOps Engineer,Swift,5,Avanzado,CDMX,92000.0
+Jaqueline Tafoya,Ingeniería en Inteligencia Artificial,Junior Developer,Python,0,Intermedio,Monterrey,23200.0
+Pablo Conchita Barraza Sotelo,Ingeniería en Sistemas Computacionales,Backend Developer,JavaScript,1,Avanzado,Mérida,40000.0
+Dr. Teodoro Solorzano,Licenciatura en Matemáticas Aplicadas,Data Scientist,PHP,3,Avanzado,Monterrey,87900.0
+Aurora Garay,Licenciatura en Actuaría,Junior Developer,R,2,Básico,Guadalajara,22100.0
+Eugenio Cano,Licenciatura en Ciencia de Datos,DevOps Engineer,Java,7,Básico,Monterrey,55700.0
+Eugenia Eloisa Haro Correa,Ingeniería de Software,DevOps Engineer,JavaScript,3,Intermedio,Remoto Internacional,66400.0
+Jaime Orellana Villa,Licenciatura en Actuaría,QA Engineer,C#,9,Básico,Guadalajara,47800.0
+Dulce María Magdalena Pabón,Licenciatura en Actuaría,Frontend Developer,Go,6,Avanzado,CDMX,75800.0
+Horacio Cano Gallardo,Ingeniería de Software,Machine Learning Engineer,JavaScript,8,Básico,Remoto Internacional,79500.0
+Timoteo Uriel Villa Esquibel,Ingeniería en Telemática,Data Scientist,PHP,2,Básico,Remoto Internacional,61400.0
+Esparta Ivonne Aponte,Licenciatura en Actuaría,Frontend Developer,R,6,Básico,Guadalajara,42500.0
+Indira Minerva de la O Partida,Ingeniería en Telemática,Data Scientist,PHP,10,Avanzado,CDMX,123900.0
+Esperanza Mariana Cruz Dávila,Ingeniería Mecatrónica,Data Scientist,R,1,Básico,Monterrey,47300.0
+Lic. Agustín Fonseca,Ingeniería Mecatrónica,Data Scientist,Go,9,Intermedio,Guadalajara,82600.0
+Trinidad María Teresa Almonte Véliz,Ingeniería en Telemática,DevOps Engineer,Swift,7,Avanzado,Puebla,72100.0
+Gregorio Herrera,Ingeniería en Telemática,Backend Developer,JavaScript,7,Avanzado,Puebla,63600.0
+Ing. Pilar Mena,Licenciatura en Actuaría,QA Engineer,PHP,2,Básico,Mérida,24200.0
+Bruno Naranjo Cazares,Ingeniería de Software,QA Engineer,Python,10,Avanzado,Remoto Nacional,64900.0
+Mtro. Aurelio Olivárez,Ingeniería en Inteligencia Artificial,Junior Developer,Java,0,Avanzado,Monterrey,26600.0
+Sr(a). Elvira Zepeda,Ingeniería en Telemática,Machine Learning Engineer,Go,8,Básico,Puebla,57300.0
+Arturo Nájera,Ingeniería en Sistemas Computacionales,Frontend Developer,C#,3,Avanzado,Puebla,44900.0
+Javier Ávila Cedillo,Ingeniería en Sistemas Computacionales,Data Analyst,R,2,Básico,Monterrey,29300.0
+Estela Minerva de la Crúz Hernández,Licenciatura en Actuaría,DevOps Engineer,Go,7,Intermedio,Remoto Internacional,92200.0
+Leonel Pascual Olvera Ramos,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Java,3,Básico,Mérida,40700.0
+Cristal Yeni Sanches Villareal,Ingeniería en Inteligencia Artificial,Fullstack Developer,PHP,6,Intermedio,Guadalajara,60400.0
+Laura Silvano Aragón,Ingeniería de Software,DevOps Engineer,Go,6,Intermedio,Remoto Nacional,53600.0
+Miriam Conchita Espino Uribe,Ingeniería de Software,Machine Learning Engineer,Go,10,Intermedio,Monterrey,95000.0
+Ramón Jaime Cornejo,Ingeniería de Software,Machine Learning Engineer,Java,6,Intermedio,Remoto Nacional,64100.0
+Mtro. Julio Aguayo,Ingeniería en Sistemas Computacionales,Junior Developer,JavaScript,0,Básico,Guadalajara,17300.0
+Dr. Raquel Peres,Ingeniería de Software,Machine Learning Engineer,JavaScript,5,Intermedio,Remoto Nacional,57800.0
+Lic. Marisela Cabrera,Licenciatura en Matemáticas Aplicadas,Data Analyst,Python,5,Intermedio,Monterrey,48400.0
+Ing. Jesús Godoy,Ingeniería de Software,Data Scientist,Go,6,Avanzado,Puebla,69200.0
+Andrés Abel Valdivia,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,C#,4,Básico,Guadalajara,54200.0
+Carlos Helena Salcedo,Ingeniería en Telemática,Tech Lead,PHP,8,Básico,Guadalajara,82700.0
+Pamela Villarreal Gallardo,Ingeniería en Inteligencia Artificial,Fullstack Developer,PHP,4,Intermedio,Remoto Nacional,42300.0
+Aurelio Nájera,Ingeniería en Sistemas Computacionales,Fullstack Developer,R,2,Básico,Guadalajara,38100.0
+Mtro. Karla de Anda,Ingeniería Mecatrónica,QA Engineer,C#,3,Básico,Querétaro,30600.0
+Úrsula Adán Sauceda Romo,Ingeniería en Telemática,Backend Developer,Swift,3,Intermedio,Querétaro,40500.0
+Mauricio Francisco Razo,Licenciatura en Actuaría,Fullstack Developer,PHP,7,Básico,Puebla,41100.0
+Teresa Sarabia,Ingeniería en Inteligencia Artificial,Fullstack Developer,Java,10,Avanzado,Querétaro,97300.0
+Celia Porras Romero,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,JavaScript,7,Básico,Querétaro,57400.0
+Julio César Guerra,Licenciatura en Actuaría,Tech Lead,R,10,Básico,Mérida,61500.0
+Mtro. Gregorio Quintero,Licenciatura en Matemáticas Aplicadas,Tech Lead,PHP,15,Avanzado,Monterrey,153800.0
+Andrés Ruelas,Ingeniería en Inteligencia Artificial,Data Scientist,Java,2,Intermedio,Querétaro,47800.0
+Guadalupe Abelardo Arteaga Salcedo,Ingeniería en Sistemas Computacionales,QA Engineer,Swift,6,Básico,Mérida,32900.0
+Camila Mesa Griego,Ingeniería de Software,Data Scientist,Go,8,Avanzado,Remoto Nacional,95600.0
+Lic. Mitzy Téllez,Licenciatura en Ciencia de Datos,DevOps Engineer,Swift,1,Básico,CDMX,45200.0
+Ignacio Carmona,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Go,7,Intermedio,Remoto Internacional,75200.0
+Lucía Ana María Osorio Villarreal,Ingeniería Mecatrónica,Data Analyst,Go,5,Intermedio,Mérida,38100.0
+Elvia Reynoso Ávila,Ingeniería Mecatrónica,Frontend Developer,PHP,7,Avanzado,Monterrey,69500.0
+Lorena Espinal,Ingeniería en Telemática,Backend Developer,C#,10,Avanzado,Remoto Nacional,77700.0
+Mtro. José Luis Noriega,Licenciatura en Actuaría,Machine Learning Engineer,Swift,5,Intermedio,Remoto Nacional,56000.0
+Gustavo Mejía Peralta,Licenciatura en Actuaría,Backend Developer,Java,5,Básico,Remoto Internacional,51700.0
+Delia Saavedra Soto,Licenciatura en Actuaría,QA Engineer,Java,4,Intermedio,Querétaro,35300.0
+Andrés Maya Ortega,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Java,10,Avanzado,CDMX,97000.0
+Carlos Quiñónez,Licenciatura en Actuaría,Junior Developer,Python,0,Intermedio,Monterrey,21100.0
+Rolando Tapia Arce,Ingeniería de Software,DevOps Engineer,Java,1,Avanzado,CDMX,65800.0
+Amanda Magaña,Licenciatura en Actuaría,Frontend Developer,JavaScript,5,Intermedio,Remoto Nacional,41700.0
+Ilse Saavedra Osorio,Ingeniería de Software,QA Engineer,Java,10,Básico,Puebla,46600.0
+Sr(a). Leticia Avilés,Licenciatura en Matemáticas Aplicadas,Backend Developer,Swift,4,Intermedio,Puebla,36300.0
+Ing. Gloria Mascareñas,Ingeniería Mecatrónica,Fullstack Developer,Java,10,Básico,Remoto Internacional,81500.0
+Arcelia Jaimes Sánchez,Licenciatura en Ciencia de Datos,Tech Lead,PHP,15,Básico,Remoto Internacional,131300.0
+Clemente Laura Villegas,Ingeniería de Software,Fullstack Developer,PHP,8,Básico,Remoto Internacional,74300.0
+Josefina Viera,Ingeniería en Sistemas Computacionales,QA Engineer,PHP,4,Básico,Remoto Internacional,46000.0
+Arturo Vázquez Hurtado,Ingeniería Mecatrónica,Junior Developer,R,2,Intermedio,Mérida,23500.0
+Dr. José María Abrego,Ingeniería en Inteligencia Artificial,Tech Lead,PHP,9,Avanzado,Puebla,111900.0
+Sonia Saldaña,Ingeniería en Sistemas Computacionales,Fullstack Developer,R,2,Avanzado,Remoto Nacional,53600.0
+Aurelio Maximiliano Pedroza,Ingeniería de Software,QA Engineer,C#,1,Básico,Puebla,21200.0
+Cynthia Molina,Ingeniería en Inteligencia Artificial,DevOps Engineer,Java,3,Intermedio,Guadalajara,58000.0
+Susana del Río Ferrer,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Python,3,Básico,Mérida,43600.0
+Olga Bernardo Prado,Licenciatura en Ciencia de Datos,DevOps Engineer,Go,8,Avanzado,Puebla,85400.0
+Dr. Nadia Ybarra,Ingeniería en Telemática,Data Scientist,Swift,2,Avanzado,Guadalajara,66800.0
+Rodolfo Perales Gallegos,Licenciatura en Matemáticas Aplicadas,Tech Lead,JavaScript,7,Avanzado,Mérida,100800.0
+Amalia Raúl Téllez Delgadillo,Ingeniería Mecatrónica,Data Scientist,Python,1,Avanzado,Monterrey,73000.0
+César Gonzalo Luna Alonzo,Ingeniería Mecatrónica,Machine Learning Engineer,PHP,10,Avanzado,Guadalajara,120100.0
+Jaime Isabela Terrazas,Licenciatura en Ciencia de Datos,DevOps Engineer,Go,2,Intermedio,Mérida,38000.0
+Alfredo Julio César Escalante Ulloa,Ingeniería de Software,Tech Lead,Go,12,Intermedio,Remoto Nacional,88700.0
+Dr. Ruby López,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,PHP,5,Básico,Querétaro,51400.0
+Claudia Gabriela Ávila Ochoa,Ingeniería de Software,Fullstack Developer,Swift,8,Básico,CDMX,60300.0
+Claudio Pérez Valdés,Ingeniería de Software,Fullstack Developer,Java,5,Avanzado,CDMX,85000.0
+Yeni Montez,Licenciatura en Actuaría,Machine Learning Engineer,Swift,4,Intermedio,Querétaro,56600.0
+Lic. Eric Collado,Ingeniería Mecatrónica,Machine Learning Engineer,Python,9,Intermedio,CDMX,88300.0
+Bernardo Camila Gonzales Crespo,Ingeniería en Telemática,Fullstack Developer,PHP,3,Intermedio,Monterrey,55200.0
+Elisa Quintana,Licenciatura en Ciencia de Datos,Data Analyst,Swift,4,Avanzado,Querétaro,52400.0
+Vanesa René Gamez Villalpando,Ingeniería Mecatrónica,Tech Lead,JavaScript,12,Básico,Remoto Internacional,121900.0
+Eric de Anda,Licenciatura en Ciencia de Datos,DevOps Engineer,PHP,7,Avanzado,Remoto Internacional,129000.0
+Arcelia Nadia Henríquez Madrigal,Ingeniería en Telemática,Fullstack Developer,PHP,5,Intermedio,Remoto Nacional,46100.0
+Laura Chávez Uribe,Licenciatura en Actuaría,Fullstack Developer,Java,7,Intermedio,Puebla,54500.0
+Mauricio Molina Vallejo,Licenciatura en Ciencia de Datos,Data Scientist,Python,9,Básico,Guadalajara,62700.0
+Horacio Collado Godínez,Licenciatura en Actuaría,QA Engineer,Swift,1,Básico,Remoto Internacional,34000.0
+Diego Leiva,Licenciatura en Matemáticas Aplicadas,Backend Developer,PHP,4,Avanzado,CDMX,71600.0
+Dr. Estefanía Altamirano,Ingeniería Mecatrónica,Frontend Developer,Python,6,Avanzado,Puebla,55400.0
+Ing. Reina Mendoza,Ingeniería en Inteligencia Artificial,QA Engineer,JavaScript,3,Avanzado,Remoto Internacional,64500.0
+Jaqueline Botello Santana,Ingeniería en Sistemas Computacionales,QA Engineer,PHP,9,Avanzado,Remoto Nacional,72700.0
+Lic. Esmeralda Noriega,Licenciatura en Actuaría,Data Scientist,PHP,9,Avanzado,Puebla,84200.0
+Antonio Cynthia Ibarra,Ingeniería Mecatrónica,Fullstack Developer,PHP,4,Intermedio,Guadalajara,53200.0
+Andrea Fuentes Duarte,Licenciatura en Matemáticas Aplicadas,Junior Developer,PHP,2,Intermedio,Guadalajara,25300.0
+María José Camilo Armenta Trejo,Licenciatura en Ciencia de Datos,Tech Lead,JavaScript,10,Intermedio,Remoto Internacional,129400.0
+Andrea Marisol Reynoso Gil,Licenciatura en Actuaría,Tech Lead,Swift,14,Intermedio,CDMX,123700.0
+Martha Ornelas Sáenz,Ingeniería en Telemática,Tech Lead,Java,10,Avanzado,Monterrey,148700.0
+Rosalia Lucas Guerrero Cabrera,Ingeniería Mecatrónica,Backend Developer,R,7,Avanzado,Puebla,68200.0
+Natalia Aguilar,Ingeniería de Software,Data Scientist,PHP,7,Intermedio,Guadalajara,66500.0
+Raquel René Montañez Lovato,Ingeniería en Inteligencia Artificial,Frontend Developer,R,10,Avanzado,Monterrey,99200.0
+Liliana Leonardo Ramírez Zayas,Licenciatura en Actuaría,Data Analyst,C#,10,Avanzado,Puebla,70600.0
+Débora María José Camarillo Corona,Ingeniería en Telemática,Machine Learning Engineer,PHP,7,Intermedio,Puebla,63900.0
+Víctor Téllez Camacho,Ingeniería en Telemática,DevOps Engineer,Swift,2,Básico,Guadalajara,46500.0
+Ing. Alberto Beltrán,Licenciatura en Actuaría,Data Scientist,PHP,9,Avanzado,Mérida,87100.0
+Gerónimo Isabela Verdugo Gómez,Ingeniería de Software,Tech Lead,Swift,6,Avanzado,Querétaro,100500.0
+Juan Daniela Montaño,Licenciatura en Actuaría,DevOps Engineer,C#,7,Intermedio,Mérida,52700.0
+Angélica Armas Mares,Ingeniería Mecatrónica,Frontend Developer,PHP,8,Básico,CDMX,47200.0
+Nancy Aida Vigil,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Swift,2,Avanzado,Puebla,70500.0
+Lic. Mayte Mendoza,Licenciatura en Ciencia de Datos,Data Analyst,PHP,2,Avanzado,Puebla,37600.0
+Clemente Rodríquez Carvajal,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,JavaScript,5,Básico,Querétaro,50200.0
+Bernardo Montenegro Segovia,Ingeniería de Software,Junior Developer,Java,0,Básico,Mérida,13200.0
+Humberto Úrsula Marrero,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Swift,4,Intermedio,CDMX,65500.0
+Lourdes Cedillo,Ingeniería Mecatrónica,Fullstack Developer,Java,7,Básico,Monterrey,58900.0
+Rosa Cadena,Ingeniería de Software,Junior Developer,JavaScript,1,Básico,Guadalajara,21000.0
+Estela Llamas,Licenciatura en Matemáticas Aplicadas,Data Analyst,JavaScript,3,Básico,Mérida,28000.0
+Luis Miguel Manzanares,Ingeniería en Telemática,Junior Developer,C#,1,Avanzado,Puebla,27700.0
+Sr(a). Fernando Galindo,Licenciatura en Ciencia de Datos,DevOps Engineer,PHP,10,Avanzado,Querétaro,103500.0
+Ing. Horacio Cantú,Licenciatura en Actuaría,Backend Developer,JavaScript,7,Básico,Guadalajara,48200.0
+Genaro Ordóñez,Ingeniería Mecatrónica,QA Engineer,C#,2,Avanzado,Mérida,35800.0
+Teodoro Gollum Meléndez,Ingeniería en Inteligencia Artificial,Data Scientist,JavaScript,10,Intermedio,CDMX,90600.0
+Barbara Cornejo,Ingeniería en Inteligencia Artificial,Backend Developer,Go,8,Básico,Querétaro,43600.0
+Leonor Amalia Camarillo Angulo,Ingeniería en Inteligencia Artificial,Junior Developer,PHP,0,Avanzado,Guadalajara,28900.0
+Pablo Bruno Perea Baeza,Ingeniería en Inteligencia Artificial,Frontend Developer,R,3,Avanzado,Querétaro,52100.0
+Esparta Aurelio Arredondo Lerma,Ingeniería en Inteligencia Artificial,Fullstack Developer,JavaScript,9,Avanzado,Querétaro,82700.0
+Lorenzo Rosario de la Rosa,Licenciatura en Ciencia de Datos,Tech Lead,R,6,Avanzado,Guadalajara,109600.0
+Miguel María Elena Montes Cisneros,Licenciatura en Matemáticas Aplicadas,Backend Developer,Swift,1,Avanzado,Remoto Internacional,62400.0
+Ing. Victoria de Jesús,Licenciatura en Ciencia de Datos,Frontend Developer,C#,6,Avanzado,Guadalajara,74100.0
+Adán Henríquez,Ingeniería en Sistemas Computacionales,Fullstack Developer,Swift,5,Avanzado,CDMX,70700.0
+Salvador Zaragoza,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Java,5,Intermedio,Remoto Internacional,70200.0
+Benito Arreola,Licenciatura en Matemáticas Aplicadas,Data Analyst,PHP,5,Intermedio,Guadalajara,45300.0
+Eva Sepúlveda Carreón,Ingeniería en Inteligencia Artificial,Frontend Developer,R,3,Intermedio,Mérida,36000.0
+Abril Guardado Gamboa,Ingeniería Mecatrónica,Junior Developer,Java,1,Básico,Remoto Internacional,24500.0
+Isaac Acuña Romero,Licenciatura en Ciencia de Datos,Machine Learning Engineer,JavaScript,1,Básico,Puebla,40000.0
+Nancy Tapia,Licenciatura en Matemáticas Aplicadas,Backend Developer,Swift,1,Básico,Querétaro,29600.0
+Lorenzo Carla Gálvez Rascón,Ingeniería de Software,Data Analyst,Python,6,Intermedio,CDMX,52000.0
+Daniela Díaz,Ingeniería Mecatrónica,Fullstack Developer,PHP,7,Intermedio,Monterrey,58600.0
+Perla Jos Camacho,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,R,10,Básico,Querétaro,72100.0
+Dr. José Emilio Trejo,Licenciatura en Actuaría,Backend Developer,Java,8,Básico,Guadalajara,50700.0
+Silvano Gabriel Castro Escalante,Ingeniería Mecatrónica,Junior Developer,PHP,0,Avanzado,Guadalajara,26400.0
+Andrea Elsa Nevárez,Licenciatura en Ciencia de Datos,Backend Developer,Go,4,Intermedio,Mérida,37500.0
+Sr(a). Cristobal Cavazos,Ingeniería Mecatrónica,QA Engineer,R,10,Avanzado,Querétaro,71500.0
+Alvaro Delgado Villalobos,Ingeniería Mecatrónica,Frontend Developer,Python,5,Avanzado,Querétaro,65300.0
+Paulina Godínez Cepeda,Ingeniería en Sistemas Computacionales,Data Scientist,JavaScript,6,Avanzado,Puebla,68900.0
+Ing. Enrique Nazario,Licenciatura en Matemáticas Aplicadas,Backend Developer,Swift,9,Avanzado,Remoto Nacional,73100.0
+Ing. Mauro Piña,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,C#,4,Avanzado,Querétaro,82300.0
+Olga Jaime Rendón,Ingeniería Mecatrónica,Tech Lead,Java,8,Avanzado,Monterrey,140700.0
+Gabriela Karina Ballesteros Toledo,Ingeniería en Inteligencia Artificial,Junior Developer,C#,1,Intermedio,Remoto Internacional,31000.0
+Sr(a). Esteban Cadena,Ingeniería en Sistemas Computacionales,DevOps Engineer,Python,5,Avanzado,CDMX,87400.0
+Eugenia Esmeralda Bétancourt,Ingeniería Mecatrónica,Data Scientist,Python,2,Intermedio,Puebla,41800.0
+Clara Javier Lebrón,Ingeniería de Software,DevOps Engineer,Java,2,Avanzado,CDMX,71800.0
+Beatriz Olivera,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Python,5,Básico,Remoto Nacional,40300.0
+Abel Dulce María Jimínez Colunga,Ingeniería Mecatrónica,Data Analyst,Python,1,Avanzado,CDMX,49700.0
+Ernesto José Eduardo Mata Sarabia,Ingeniería en Sistemas Computacionales,Data Scientist,Python,2,Intermedio,Remoto Internacional,79000.0
+Ing. Emilia Bahena,Ingeniería en Inteligencia Artificial,Fullstack Developer,R,1,Básico,Monterrey,35100.0
+Gilberto Joaquín Saldivar Nevárez,Ingeniería de Software,QA Engineer,R,10,Básico,Guadalajara,50500.0
+Alejandro Ángela Holguín,Licenciatura en Actuaría,Fullstack Developer,C#,6,Básico,Monterrey,54100.0
+Alvaro Trejo de la O,Ingeniería de Software,QA Engineer,R,1,Intermedio,Mérida,25900.0
+Ing. Amalia Carrera,Licenciatura en Actuaría,Junior Developer,Go,1,Intermedio,Mérida,17100.0
+Lic. Julio Osorio,Ingeniería en Sistemas Computacionales,Fullstack Developer,Go,1,Intermedio,Monterrey,39000.0
+Sr(a). Mayte Esquibel,Ingeniería de Software,DevOps Engineer,Go,7,Avanzado,CDMX,102000.0
+Mercedes Pamela Vega Dueñas,Licenciatura en Ciencia de Datos,Machine Learning Engineer,R,1,Intermedio,Mérida,44000.0
+Carmen Esquibel Alcala,Licenciatura en Matemáticas Aplicadas,Backend Developer,Go,5,Avanzado,Puebla,62700.0
+Zacarías María Luisa Dávila Frías,Ingeniería en Inteligencia Artificial,Tech Lead,Go,10,Básico,Mérida,68600.0
+Cristal Andrea Tijerina Rendón,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,C#,5,Intermedio,Puebla,50300.0
+Alicia Corrales,Ingeniería en Telemática,Junior Developer,Python,1,Intermedio,Puebla,19500.0
+Francisco Javier Toro Adame,Ingeniería en Telemática,Fullstack Developer,C#,5,Intermedio,Remoto Internacional,72200.0
+Beatriz Alonso Maestas,Ingeniería en Telemática,Tech Lead,Go,6,Básico,Querétaro,74400.0
+Clara Cuellar,Licenciatura en Matemáticas Aplicadas,Junior Developer,Go,0,Avanzado,CDMX,27100.0
+Eduardo Felix Villalpando,Licenciatura en Actuaría,Junior Developer,Go,0,Básico,Guadalajara,17800.0
+Lic. Concepción Navarro,Ingeniería en Inteligencia Artificial,Data Scientist,C#,2,Avanzado,Remoto Nacional,62200.0
+Raúl Rosario Aguilera,Licenciatura en Actuaría,Frontend Developer,R,8,Básico,Monterrey,45900.0
+Socorro Claudia Alcala Rendón,Licenciatura en Matemáticas Aplicadas,Data Scientist,JavaScript,10,Avanzado,Monterrey,113700.0
+Rufino Darío Pantoja,Ingeniería en Sistemas Computacionales,Junior Developer,R,1,Avanzado,Monterrey,35200.0
+Lic. Carlos Alvarado,Licenciatura en Matemáticas Aplicadas,Backend Developer,JavaScript,2,Intermedio,Guadalajara,44300.0
+Lourdes Elvira Cintrón,Ingeniería en Telemática,Data Analyst,Go,6,Avanzado,Monterrey,76400.0
+Martín Solorio,Ingeniería en Inteligencia Artificial,Junior Developer,JavaScript,1,Avanzado,Guadalajara,34600.0
+Abel Alicia Viera del Río,Licenciatura en Actuaría,Machine Learning Engineer,Swift,9,Avanzado,Guadalajara,113300.0
+Josefina Terán,Ingeniería en Inteligencia Artificial,Data Scientist,Swift,7,Intermedio,Puebla,62900.0
+Juan Noelia Quintana,Ingeniería en Sistemas Computacionales,Frontend Developer,PHP,5,Básico,CDMX,43800.0
+Arturo Adame,Licenciatura en Matemáticas Aplicadas,Junior Developer,Java,2,Avanzado,Guadalajara,34700.0
+Pascual Tania Valadez Maya,Ingeniería de Software,Data Analyst,R,6,Básico,CDMX,45400.0
+Ing. Eloy Ceja,Licenciatura en Matemáticas Aplicadas,Data Analyst,PHP,2,Básico,Remoto Nacional,26200.0
+Mtro. Claudio Carvajal,Licenciatura en Ciencia de Datos,Junior Developer,Python,1,Intermedio,Querétaro,22700.0
+Lic. Mercedes Concepción,Ingeniería de Software,QA Engineer,Swift,3,Intermedio,CDMX,42800.0
+Alta  Gracia Acevedo Benavides,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,R,4,Avanzado,Mérida,69800.0
+Gerónimo Abelardo Casárez,Ingeniería en Sistemas Computacionales,Fullstack Developer,JavaScript,1,Intermedio,Mérida,34800.0
+José Manuél Treviño,Ingeniería Mecatrónica,Tech Lead,C#,12,Intermedio,Remoto Internacional,144700.0
+Alonso Borrego,Licenciatura en Ciencia de Datos,DevOps Engineer,C#,1,Avanzado,Remoto Internacional,90200.0
+Silvano Chávez Corona,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,4,Intermedio,Guadalajara,57500.0
+Ariadna Guadalupe Gaitán,Ingeniería en Inteligencia Artificial,Data Analyst,Java,1,Intermedio,CDMX,35200.0
+Camila Colunga Blanco,Licenciatura en Ciencia de Datos,Fullstack Developer,JavaScript,4,Básico,Monterrey,44500.0
+Sr(a). Araceli Figueroa,Ingeniería en Telemática,DevOps Engineer,JavaScript,2,Básico,Guadalajara,43600.0
+Oswaldo Carvajal Salas,Ingeniería en Telemática,Tech Lead,C#,7,Intermedio,Monterrey,92300.0
+Luis Manuel Esmeralda Peres Romero,Ingeniería Mecatrónica,QA Engineer,Go,3,Avanzado,CDMX,53200.0
+Concepción Margarita Rodríguez Espino,Licenciatura en Ciencia de Datos,DevOps Engineer,R,7,Intermedio,CDMX,66000.0
+Lic. Berta Durán,Ingeniería en Sistemas Computacionales,Backend Developer,Swift,6,Básico,Remoto Internacional,62400.0
+Óliver Adalberto Mateo Cornejo,Ingeniería en Telemática,Fullstack Developer,JavaScript,4,Intermedio,Querétaro,44800.0
+Asunción Salinas,Licenciatura en Ciencia de Datos,Backend Developer,Python,8,Básico,CDMX,53000.0
+Víctor Vicente Laboy,Ingeniería en Telemática,Data Analyst,Java,3,Básico,Remoto Internacional,44400.0
+Ilse Apodaca Moreno,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Swift,2,Intermedio,Puebla,38400.0
+José Carlos Joaquín Apodaca,Licenciatura en Actuaría,Frontend Developer,Python,3,Avanzado,Monterrey,52300.0
+Celia Armenta,Licenciatura en Actuaría,QA Engineer,Java,5,Básico,Guadalajara,36200.0
+Sara Laboy,Licenciatura en Ciencia de Datos,Data Scientist,Java,10,Intermedio,Puebla,64000.0
+Mercedes Mercedes Ybarra,Ingeniería de Software,DevOps Engineer,Swift,5,Intermedio,CDMX,64700.0
+Mtro. Cristobal Sanches,Licenciatura en Ciencia de Datos,Frontend Developer,Java,5,Básico,Remoto Nacional,35200.0
+Elias Adela Urías,Ingeniería en Sistemas Computacionales,Fullstack Developer,Java,10,Básico,Remoto Nacional,57200.0
+José Manuél Jacobo Soria Ruelas,Licenciatura en Ciencia de Datos,Frontend Developer,PHP,1,Intermedio,Mérida,27600.0
+Dulce Graciela Cortés Escobedo,Licenciatura en Matemáticas Aplicadas,Tech Lead,PHP,14,Básico,Guadalajara,89800.0
+Noelia Diana Villaseñor,Ingeniería de Software,Junior Developer,PHP,2,Avanzado,Remoto Nacional,32800.0
+Israel Óliver Moya Gastélum,Ingeniería en Sistemas Computacionales,Backend Developer,Python,8,Intermedio,Monterrey,68500.0
+Emilia de la Garza León,Ingeniería Mecatrónica,Junior Developer,R,2,Básico,Guadalajara,22400.0
+Juana Alta  Gracia Soria Mota,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,PHP,1,Básico,CDMX,46400.0
+Lic. Úrsula Luna,Ingeniería en Inteligencia Artificial,Fullstack Developer,PHP,1,Básico,Monterrey,33000.0
+Olivia Granados,Licenciatura en Ciencia de Datos,Frontend Developer,PHP,3,Avanzado,Guadalajara,52600.0
+Dr. Pascual Trejo,Ingeniería en Sistemas Computacionales,Tech Lead,JavaScript,13,Intermedio,Mérida,88800.0
+Alicia Iglesias Ocampo,Ingeniería en Inteligencia Artificial,Frontend Developer,Python,10,Avanzado,Puebla,76800.0
+Sofía Barrientos Rascón,Licenciatura en Ciencia de Datos,Fullstack Developer,Swift,8,Básico,Guadalajara,57600.0
+Cristal Iván Ponce Carreón,Ingeniería en Inteligencia Artificial,Junior Developer,PHP,1,Avanzado,Monterrey,30000.0
+Mónica Rubén Tejeda Lucero,Licenciatura en Actuaría,Data Analyst,Python,8,Avanzado,Querétaro,65400.0
+Ruby Teresa Vera,Ingeniería en Sistemas Computacionales,Tech Lead,Java,8,Avanzado,CDMX,145000.0
+Benito Valentín,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Go,2,Intermedio,Mérida,35300.0
+Estela Bustos Molina,Licenciatura en Matemáticas Aplicadas,Backend Developer,Go,3,Intermedio,Monterrey,45100.0
+Anabel Meza Casillas,Ingeniería de Software,Data Analyst,Python,9,Básico,Querétaro,48900.0
+Ing. Abril Salazar,Licenciatura en Actuaría,Fullstack Developer,JavaScript,10,Básico,Mérida,48300.0
+Paola Angulo Villalpando,Ingeniería en Inteligencia Artificial,Junior Developer,Java,0,Avanzado,CDMX,27100.0
+Mtro. Gabriela Saucedo,Licenciatura en Actuaría,Data Scientist,Java,10,Intermedio,Querétaro,76100.0
+Dr. Agustín Rangel,Licenciatura en Matemáticas Aplicadas,Data Analyst,PHP,9,Avanzado,CDMX,92100.0
+Óscar Teodoro Aguilar,Ingeniería en Inteligencia Artificial,Backend Developer,Swift,4,Intermedio,Querétaro,43900.0
+Gabino Lomeli,Ingeniería de Software,DevOps Engineer,Swift,10,Intermedio,Remoto Nacional,72400.0
+María del Carmen Llamas,Ingeniería Mecatrónica,Junior Developer,R,0,Básico,CDMX,17900.0
+Virginia Gilberto Cedillo Alejandro,Ingeniería en Telemática,Tech Lead,R,9,Avanzado,Monterrey,137900.0
+Zeferino Estela Collazo,Ingeniería en Sistemas Computacionales,QA Engineer,Swift,2,Intermedio,Mérida,27300.0
+Carlota Heredia Mojica,Ingeniería Mecatrónica,DevOps Engineer,Python,8,Avanzado,Mérida,73900.0
+Ilse Méndez Arteaga,Ingeniería de Software,QA Engineer,PHP,3,Intermedio,CDMX,38600.0
+Jorge Pantoja,Ingeniería en Telemática,Data Analyst,R,5,Intermedio,Puebla,38300.0
+Augusto Gabino Moya,Ingeniería Mecatrónica,Data Analyst,JavaScript,10,Avanzado,Mérida,69100.0
+Pablo Esquibel,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,PHP,8,Avanzado,Remoto Internacional,115200.0
+René Terrazas Arellano,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,C#,6,Básico,Querétaro,56800.0
+Adela Quezada,Licenciatura en Actuaría,DevOps Engineer,R,1,Avanzado,Guadalajara,57200.0
+María Elena Rojo Villalpando,Ingeniería de Software,Data Analyst,Go,5,Intermedio,Guadalajara,44300.0
+Laura Fabiola Ávila,Ingeniería en Inteligencia Artificial,QA Engineer,C#,7,Básico,CDMX,44900.0
+Camila Cardenas Vélez,Ingeniería en Sistemas Computacionales,Data Analyst,Python,8,Avanzado,Monterrey,85600.0
+María Cristina Ávila Almanza,Licenciatura en Actuaría,DevOps Engineer,Swift,7,Avanzado,Remoto Nacional,72100.0
+Sr(a). Enrique Cordero,Ingeniería en Inteligencia Artificial,Fullstack Developer,Python,8,Básico,Monterrey,58900.0
+Flavio Escobedo Montez,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Swift,8,Avanzado,CDMX,85000.0
+Juan Carlos Virginia Prado Espinosa,Ingeniería en Sistemas Computacionales,Tech Lead,PHP,7,Básico,Guadalajara,78800.0
+Rosalia Anel Matos Amador,Licenciatura en Ciencia de Datos,Backend Developer,Python,4,Intermedio,Remoto Internacional,56800.0
+Micaela Virginia Maya,Ingeniería en Sistemas Computacionales,DevOps Engineer,R,6,Intermedio,Monterrey,63300.0
+Evelio María del Carmen Tamez,Licenciatura en Actuaría,Data Analyst,JavaScript,8,Básico,Monterrey,51800.0
+Teresa Ofelia Barragán,Ingeniería en Inteligencia Artificial,DevOps Engineer,R,9,Básico,Remoto Nacional,56900.0
+Conchita Ibarra Godoy,Licenciatura en Ciencia de Datos,Junior Developer,JavaScript,2,Básico,Querétaro,21300.0
+Flavio María Luisa Murillo,Ingeniería Mecatrónica,QA Engineer,R,3,Básico,Monterrey,34600.0
+Dr. Tania Chavarría,Ingeniería en Telemática,Junior Developer,PHP,0,Intermedio,Monterrey,19900.0
+Sr(a). Clemente Chapa,Ingeniería de Software,Data Analyst,C#,6,Intermedio,Remoto Nacional,46300.0
+Cecilia Benítez Carbajal,Licenciatura en Actuaría,Backend Developer,Java,4,Básico,CDMX,42100.0
+Zacarías Muro Maestas,Ingeniería en Inteligencia Artificial,QA Engineer,Python,1,Avanzado,CDMX,43500.0
+Sessa Roque Longoria,Ingeniería en Sistemas Computacionales,Data Analyst,JavaScript,1,Básico,Monterrey,29500.0
+Pedro Garza Barela,Licenciatura en Actuaría,Tech Lead,Python,11,Intermedio,Guadalajara,108700.0
+Aldonza Ivonne Rolón Alva,Ingeniería Mecatrónica,Data Scientist,R,4,Avanzado,Remoto Nacional,69400.0
+Cristian Sara Colunga,Ingeniería en Telemática,Backend Developer,JavaScript,3,Avanzado,Mérida,42600.0
+Iván Feliciano,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,PHP,2,Avanzado,Remoto Internacional,102300.0
+Olga Noelia Díaz Guevara,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Go,5,Intermedio,Puebla,42100.0
+Isabel Aurora Centeno Villareal,Ingeniería en Inteligencia Artificial,Backend Developer,JavaScript,2,Avanzado,Remoto Nacional,46300.0
+Rodolfo Josefina Quintana,Licenciatura en Ciencia de Datos,Backend Developer,PHP,2,Básico,Mérida,24800.0
+Benito Manzanares,Ingeniería en Inteligencia Artificial,Frontend Developer,Go,5,Avanzado,Monterrey,60400.0
+Minerva Iglesias Jaimes,Ingeniería en Inteligencia Artificial,Fullstack Developer,Python,9,Básico,Puebla,48900.0
+Abigail Cynthia Valencia Prieto,Licenciatura en Actuaría,Frontend Developer,Java,8,Avanzado,Remoto Internacional,105400.0
+Martín Camacho,Ingeniería en Sistemas Computacionales,Tech Lead,Go,8,Avanzado,Monterrey,128200.0
+Yeni Miguel Bernal Vanegas,Ingeniería Mecatrónica,Backend Developer,Swift,1,Básico,Mérida,26500.0
+Cristina Nelly Ocampo,Licenciatura en Ciencia de Datos,Junior Developer,Java,1,Básico,Puebla,15400.0
+Francisco Javier Ruelas Valadez,Ingeniería en Telemática,Frontend Developer,C#,8,Intermedio,Remoto Nacional,56700.0
+Amalia Arce Adame,Licenciatura en Ciencia de Datos,QA Engineer,C#,2,Avanzado,Monterrey,44200.0
+María Elena Héctor Solano Aponte,Licenciatura en Ciencia de Datos,Tech Lead,PHP,8,Básico,CDMX,91200.0
+Bernardo Eloisa Cardona,Ingeniería en Sistemas Computacionales,Fullstack Developer,Go,6,Avanzado,Remoto Nacional,62600.0
+Sr(a). Arturo Ruiz,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Go,8,Avanzado,Monterrey,104600.0
+María Vargas,Ingeniería de Software,Tech Lead,Swift,10,Intermedio,Monterrey,99900.0
+Ángel José María Peña Esquibel,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Swift,3,Avanzado,CDMX,70700.0
+Noemí Marín,Licenciatura en Ciencia de Datos,Frontend Developer,Go,5,Avanzado,Remoto Internacional,80700.0
+Sr(a). Alvaro Loya,Ingeniería de Software,Frontend Developer,R,10,Avanzado,CDMX,99700.0
+Lic. Aurora Correa,Ingeniería en Sistemas Computacionales,Fullstack Developer,Python,9,Básico,Guadalajara,62500.0
+Elsa Delgadillo Pineda,Ingeniería en Inteligencia Artificial,Junior Developer,Swift,0,Intermedio,Remoto Internacional,28000.0
+Samuel Emilio Garibay,Licenciatura en Ciencia de Datos,DevOps Engineer,Python,8,Básico,Mérida,46200.0
+Berta Anabel Lozada,Licenciatura en Matemáticas Aplicadas,Data Scientist,R,3,Avanzado,Querétaro,73200.0
+Lorenzo Marín Zaragoza,Licenciatura en Ciencia de Datos,Tech Lead,JavaScript,6,Avanzado,Querétaro,114600.0
+Dr. Alonso del Río,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,1,Avanzado,Remoto Nacional,52200.0
+José Luis Yeni Laboy Rosario,Ingeniería de Software,Machine Learning Engineer,Go,1,Básico,Monterrey,46800.0
+Magdalena Benavídez Aguilera,Licenciatura en Actuaría,Data Analyst,R,2,Avanzado,Puebla,41400.0
+Paola Paredes,Licenciatura en Actuaría,Backend Developer,PHP,8,Intermedio,CDMX,61300.0
+Darío Ana Gaitán,Licenciatura en Ciencia de Datos,Frontend Developer,JavaScript,7,Básico,Remoto Internacional,56100.0
+Flavio Orta Martínez,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Go,6,Intermedio,Guadalajara,70700.0
+María Elena Montes Rodarte,Ingeniería en Inteligencia Artificial,Fullstack Developer,R,3,Avanzado,CDMX,65900.0
+Ana Villa Caldera,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Swift,4,Básico,Remoto Internacional,76200.0
+Estela Octavio Limón,Licenciatura en Actuaría,Data Scientist,JavaScript,1,Avanzado,CDMX,72500.0
+Augusto Dulce María Zarate,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,R,7,Intermedio,Mérida,60800.0
+Aldonza Julio César Calvillo,Ingeniería en Sistemas Computacionales,DevOps Engineer,PHP,6,Intermedio,CDMX,71100.0
+Dulce Anguiano,Ingeniería en Telemática,QA Engineer,Java,5,Básico,Mérida,30900.0
+Irma Hernán Oquendo Raya,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Swift,1,Avanzado,CDMX,70500.0
+Porfirio Raquel Villalpando,Ingeniería en Telemática,DevOps Engineer,R,6,Básico,Remoto Nacional,49000.0
+Eric Lomeli,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,JavaScript,5,Intermedio,Guadalajara,74900.0
+Andrés Pacheco Burgos,Licenciatura en Matemáticas Aplicadas,Junior Developer,C#,0,Básico,Querétaro,14500.0
+Esmeralda Agustín Niño,Ingeniería Mecatrónica,Frontend Developer,Python,4,Intermedio,Remoto Internacional,58900.0
+Carlos Carvajal Rael,Ingeniería en Telemática,Frontend Developer,JavaScript,4,Avanzado,Monterrey,61000.0
+Delia Alejandra Archuleta,Ingeniería de Software,Tech Lead,Go,13,Intermedio,Monterrey,108600.0
+Úrsula Wilfrido Flores Carranza,Ingeniería de Software,Data Scientist,PHP,4,Avanzado,Mérida,67700.0
+Luis Zeferino Pineda,Licenciatura en Matemáticas Aplicadas,Data Analyst,C#,2,Básico,Monterrey,28800.0
+Víctor Tórrez,Ingeniería en Telemática,Data Scientist,C#,3,Intermedio,Mérida,47700.0
+Ángela Yuridia Gurule Alfaro,Ingeniería Mecatrónica,DevOps Engineer,Go,4,Básico,Mérida,39400.0
+Judith Curiel Saiz,Ingeniería en Inteligencia Artificial,Tech Lead,Java,10,Básico,Guadalajara,91900.0
+Mtro. Clara Herrera,Licenciatura en Actuaría,Frontend Developer,Java,10,Intermedio,Querétaro,58600.0
+Hermelinda Esmeralda Escobar,Ingeniería de Software,Backend Developer,Swift,6,Básico,Remoto Nacional,39200.0
+José Emilio Miguel Marín,Licenciatura en Actuaría,Junior Developer,C#,2,Avanzado,Guadalajara,35200.0
+Citlali Berta Saldivar Sandoval,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,10,Avanzado,Remoto Nacional,92800.0
+Juana Gamboa,Ingeniería Mecatrónica,Data Analyst,Java,2,Básico,Querétaro,29000.0
+Mtro. Juan Baeza,Ingeniería en Telemática,Data Analyst,PHP,8,Básico,Mérida,40600.0
+Linda Alfredo Farías,Ingeniería en Inteligencia Artificial,Data Scientist,C#,4,Avanzado,Remoto Nacional,78000.0
+Victoria Ruelas Delgadillo,Ingeniería en Telemática,Backend Developer,PHP,5,Básico,Querétaro,42700.0
+Santiago José María Valentín,Ingeniería Mecatrónica,Data Analyst,JavaScript,8,Intermedio,Puebla,49300.0
+Germán Juana Valencia,Ingeniería Mecatrónica,DevOps Engineer,Go,1,Avanzado,Remoto Nacional,56000.0
+Lic. Amalia Toledo,Ingeniería Mecatrónica,Tech Lead,R,15,Básico,Guadalajara,91900.0
+Ing. Eva Ontiveros,Licenciatura en Actuaría,Backend Developer,JavaScript,3,Intermedio,Guadalajara,47000.0
+Vicente Karina Orozco Méndez,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,PHP,8,Básico,Puebla,58900.0
+Pascual Abel Portillo de León,Ingeniería en Inteligencia Artificial,Frontend Developer,JavaScript,7,Básico,Remoto Nacional,37400.0
+Aldonza Verónica Candelaria Tejada,Ingeniería en Sistemas Computacionales,Tech Lead,Go,10,Básico,Querétaro,86400.0
+Carolina Estela Rodríquez,Ingeniería de Software,Machine Learning Engineer,Swift,4,Avanzado,Mérida,63900.0
+Ing. Estela Zamudio,Ingeniería en Inteligencia Artificial,QA Engineer,R,9,Básico,Guadalajara,47200.0
+María Roberto Treviño,Ingeniería Mecatrónica,Data Scientist,R,6,Básico,Monterrey,59200.0
+Lic. Benito Godínez,Ingeniería Mecatrónica,Fullstack Developer,R,8,Intermedio,Mérida,53000.0
+Eloisa Alejandro Prado Casas,Ingeniería en Sistemas Computacionales,Junior Developer,Java,2,Avanzado,Remoto Nacional,29200.0
+Sr(a). Jaime Saavedra,Ingeniería Mecatrónica,Data Scientist,PHP,9,Básico,Monterrey,63900.0
+Andrea Ramiro Raya Lovato,Ingeniería Mecatrónica,Tech Lead,PHP,14,Avanzado,CDMX,147000.0
+Karla Delia Barreto,Ingeniería de Software,Fullstack Developer,C#,9,Avanzado,Querétaro,78300.0
+Celia Rosa Mena,Licenciatura en Ciencia de Datos,Data Scientist,PHP,4,Intermedio,Puebla,51700.0
+Barbara Serrato Molina,Ingeniería Mecatrónica,Junior Developer,Python,2,Avanzado,Mérida,31200.0
+Cristal Zambrano,Licenciatura en Actuaría,Machine Learning Engineer,Python,7,Básico,Remoto Internacional,80700.0
+Adán Almanza,Ingeniería en Telemática,Machine Learning Engineer,JavaScript,2,Avanzado,CDMX,89500.0
+Carolina Batista López,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,3,Avanzado,CDMX,72000.0
+Rebeca Francisca Cepeda Espinosa,Ingeniería en Telemática,Data Analyst,R,9,Avanzado,Monterrey,84000.0
+Teresa Hilda Ponce,Ingeniería de Software,DevOps Engineer,JavaScript,6,Avanzado,Mérida,61400.0
+José Manuél Polanco,Ingeniería en Inteligencia Artificial,Backend Developer,JavaScript,1,Intermedio,Remoto Internacional,48100.0
+René Valenzuela Farías,Ingeniería en Inteligencia Artificial,Frontend Developer,C#,6,Básico,Remoto Internacional,53800.0
+Agustín Rodarte Mejía,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,2,Básico,Monterrey,45100.0
+Aldo Chacón,Licenciatura en Matemáticas Aplicadas,Data Scientist,JavaScript,7,Avanzado,Puebla,87400.0
+Aldo Ana Luisa Frías,Ingeniería de Software,Machine Learning Engineer,Java,9,Básico,Monterrey,66400.0
+Ignacio Cardenas,Ingeniería Mecatrónica,Data Scientist,Python,6,Intermedio,Mérida,57900.0
+Marcos Patricia Rivero Granados,Ingeniería en Telemática,Backend Developer,Java,8,Básico,Querétaro,47300.0
+Soledad Hinojosa,Ingeniería en Sistemas Computacionales,Backend Developer,Java,1,Avanzado,Remoto Nacional,42300.0
+Hugo Guardado Tejada,Ingeniería Mecatrónica,Fullstack Developer,JavaScript,7,Avanzado,Remoto Internacional,107600.0
+Salvador José Luis Alcaraz,Licenciatura en Ciencia de Datos,Fullstack Developer,JavaScript,8,Intermedio,Monterrey,73400.0
+Inés Padrón,Licenciatura en Actuaría,DevOps Engineer,Java,1,Avanzado,Guadalajara,57600.0
+Mitzy Ordóñez Velázquez,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Go,8,Intermedio,Puebla,49900.0
+José Carlos Garrido Espinoza,Ingeniería en Sistemas Computacionales,Fullstack Developer,Java,1,Avanzado,Monterrey,60800.0
+Miriam Antonio Valles Mayorga,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Python,2,Básico,Mérida,38900.0
+Mtro. Celia Solorio,Licenciatura en Matemáticas Aplicadas,QA Engineer,Go,1,Intermedio,Guadalajara,30400.0
+Hermelinda Carla Mora Ramón,Ingeniería en Sistemas Computacionales,Data Scientist,Java,6,Avanzado,Remoto Internacional,126400.0
+Patricia Cepeda,Ingeniería Mecatrónica,Data Scientist,R,4,Básico,Guadalajara,48500.0
+Mariana Natalia Rojo,Ingeniería Mecatrónica,Frontend Developer,C#,7,Básico,Guadalajara,50700.0
+Mitzy Zelaya,Ingeniería de Software,Backend Developer,PHP,10,Intermedio,Puebla,54400.0
+Dr. Julia Luevano,Ingeniería en Inteligencia Artificial,DevOps Engineer,Swift,2,Intermedio,Remoto Internacional,65400.0
+Salvador Laura Enríquez Barajas,Licenciatura en Actuaría,Junior Developer,PHP,2,Intermedio,Puebla,25000.0
+Lic. Benjamín Aragón,Licenciatura en Matemáticas Aplicadas,Data Analyst,Go,2,Intermedio,Puebla,33000.0
+Rubén Escalante Tafoya,Licenciatura en Ciencia de Datos,Fullstack Developer,R,8,Avanzado,Remoto Nacional,69500.0
+Genaro Juan Carlos Márquez Parra,Licenciatura en Matemáticas Aplicadas,Data Analyst,R,7,Básico,Querétaro,39400.0
+Manuel José Carlos Alvarez,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,7,Básico,Remoto Nacional,51200.0
+Aurelio Longoria,Ingeniería en Sistemas Computacionales,Junior Developer,JavaScript,0,Avanzado,Guadalajara,28100.0
+Adriana Camila Partida Echeverría,Ingeniería Mecatrónica,Backend Developer,JavaScript,9,Avanzado,Monterrey,95100.0
+Dr. Emilia Arreola,Licenciatura en Actuaría,Fullstack Developer,JavaScript,3,Básico,Querétaro,40200.0
+Hermelinda Corona,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Go,8,Avanzado,Remoto Nacional,85400.0
+Lilia Hernandes,Licenciatura en Ciencia de Datos,Tech Lead,PHP,13,Avanzado,CDMX,165400.0
+Evelio Ernesto Ibarra Arias,Licenciatura en Matemáticas Aplicadas,QA Engineer,PHP,8,Básico,Puebla,40300.0
+Pablo Susana Becerra,Licenciatura en Ciencia de Datos,Data Scientist,Java,4,Intermedio,Querétaro,61700.0
+Dr. Alvaro Flórez,Licenciatura en Actuaría,Frontend Developer,Go,6,Básico,Monterrey,42200.0
+Sr(a). Blanca Barrera,Ingeniería Mecatrónica,Data Analyst,JavaScript,7,Avanzado,CDMX,81900.0
+Francisco Javier Tafoya,Ingeniería en Sistemas Computacionales,Backend Developer,Java,7,Básico,CDMX,52400.0
+Estela Fernández,Ingeniería de Software,Fullstack Developer,Swift,1,Avanzado,Monterrey,54200.0
+Norma Antonia Medina Martínez,Licenciatura en Ciencia de Datos,Frontend Developer,Python,3,Básico,Monterrey,33300.0
+Mtro. Ilse Bétancourt,Ingeniería en Inteligencia Artificial,Fullstack Developer,Swift,3,Intermedio,Monterrey,51100.0
+Renato Montenegro,Ingeniería de Software,Junior Developer,JavaScript,1,Básico,Mérida,17000.0
+Itzel Arenas,Ingeniería Mecatrónica,Machine Learning Engineer,C#,5,Básico,Remoto Nacional,48900.0
+Dr. Hermelinda Granado,Ingeniería Mecatrónica,QA Engineer,PHP,10,Básico,Mérida,43100.0
+Florencia Castillo Cedillo,Licenciatura en Ciencia de Datos,Fullstack Developer,Python,3,Básico,Monterrey,42600.0
+Leonel Merino Corral,Ingeniería de Software,QA Engineer,Java,4,Avanzado,Querétaro,51700.0
+Jaime Abraham Urbina,Licenciatura en Matemáticas Aplicadas,Tech Lead,Go,11,Avanzado,Remoto Internacional,196200.0
+Nadia Nadia Godoy,Licenciatura en Ciencia de Datos,Frontend Developer,JavaScript,9,Básico,Puebla,42700.0
+Esmeralda Rosario Bustos Rael,Licenciatura en Actuaría,DevOps Engineer,Python,3,Básico,Puebla,40900.0
+Sandra Sessa Vargas,Licenciatura en Ciencia de Datos,Data Analyst,Swift,6,Básico,Remoto Nacional,39100.0
+Estela Barrera Perea,Licenciatura en Ciencia de Datos,Data Scientist,Java,1,Intermedio,Monterrey,57000.0
+Marcela Quezada Vega,Ingeniería en Sistemas Computacionales,Frontend Developer,Python,8,Básico,Mérida,42500.0
+Dr. Eloisa Romo,Ingeniería Mecatrónica,QA Engineer,JavaScript,7,Avanzado,Monterrey,75000.0
+Tomás Molina,Ingeniería en Sistemas Computacionales,QA Engineer,Go,1,Básico,Guadalajara,25800.0
+Martín Lourdes Muro,Ingeniería de Software,Data Scientist,PHP,1,Intermedio,Guadalajara,49400.0
+Sr(a). Noelia Quiñones,Licenciatura en Matemáticas Aplicadas,QA Engineer,Java,8,Intermedio,Mérida,44900.0
+Rodrigo Robledo,Licenciatura en Ciencia de Datos,Junior Developer,Go,0,Intermedio,Remoto Internacional,25700.0
+Sr(a). Jacobo Alvarado,Licenciatura en Actuaría,Machine Learning Engineer,Go,6,Intermedio,Remoto Nacional,65400.0
+Pamela Ibarra Vergara,Licenciatura en Matemáticas Aplicadas,Tech Lead,PHP,9,Básico,Remoto Internacional,100800.0
+Carmen Julia Armendáriz,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Go,2,Básico,Puebla,25400.0
+Carmen Rodrígez Coronado,Ingeniería Mecatrónica,Machine Learning Engineer,JavaScript,6,Intermedio,Guadalajara,79200.0
+Lic. Federico Mesa,Ingeniería Mecatrónica,QA Engineer,JavaScript,5,Intermedio,Guadalajara,47700.0
+Patricia Casillas Guzmán,Ingeniería en Inteligencia Artificial,Tech Lead,Java,14,Básico,Puebla,77100.0
+Trinidad Molina Garibay,Ingeniería en Telemática,Machine Learning Engineer,Go,1,Avanzado,Puebla,60400.0
+Marisela Hurtado Baeza,Licenciatura en Matemáticas Aplicadas,QA Engineer,Swift,6,Intermedio,Remoto Nacional,44800.0
+Elisa Nieto,Licenciatura en Actuaría,Backend Developer,Python,7,Avanzado,Remoto Internacional,94000.0
+Espartaco Pelayo Juárez,Ingeniería Mecatrónica,DevOps Engineer,JavaScript,6,Intermedio,Mérida,47100.0
+Ignacio Ríos,Ingeniería en Sistemas Computacionales,Fullstack Developer,Swift,9,Básico,Guadalajara,55400.0
+Ing. Julia Montemayor,Licenciatura en Actuaría,Machine Learning Engineer,C#,8,Avanzado,Puebla,83800.0
+Ariadna Benito Rascón Arriaga,Ingeniería en Sistemas Computacionales,DevOps Engineer,JavaScript,9,Intermedio,CDMX,78400.0
+Timoteo Romo Barrera,Ingeniería en Telemática,Fullstack Developer,Python,10,Intermedio,Monterrey,81300.0
+Pilar Munguía Armas,Licenciatura en Matemáticas Aplicadas,Data Analyst,Python,10,Básico,Remoto Nacional,46100.0
+Aida Rosales Noriega,Licenciatura en Actuaría,Frontend Developer,Java,10,Avanzado,Remoto Internacional,113400.0
+Leonardo Luevano,Ingeniería en Telemática,Fullstack Developer,Swift,2,Avanzado,CDMX,59100.0
+Manuel Velázquez del Valle,Licenciatura en Matemáticas Aplicadas,Frontend Developer,Java,1,Avanzado,Mérida,33700.0
+Elena Germán Maestas,Ingeniería de Software,Fullstack Developer,C#,4,Avanzado,Mérida,57700.0
+Ing. Débora Guerra,Ingeniería de Software,Frontend Developer,Python,5,Intermedio,Remoto Nacional,45500.0
+Reina Aponte Prado,Ingeniería en Telemática,Backend Developer,Java,4,Intermedio,CDMX,52600.0
+Alicia Badillo,Ingeniería de Software,Junior Developer,PHP,2,Intermedio,Monterrey,28900.0
+Cristina Arguello,Ingeniería en Inteligencia Artificial,QA Engineer,Swift,6,Básico,Monterrey,41100.0
+Timoteo Irene Díaz Olivas,Ingeniería de Software,Machine Learning Engineer,Python,8,Avanzado,CDMX,121100.0
+Lic. Arturo Osorio,Ingeniería Mecatrónica,Fullstack Developer,JavaScript,5,Avanzado,Querétaro,67800.0
+Gregorio Madera Tello,Licenciatura en Actuaría,Backend Developer,Java,10,Intermedio,CDMX,65200.0
+Luisa Ernesto Archuleta,Ingeniería de Software,Fullstack Developer,Python,4,Avanzado,Guadalajara,65200.0
+Guillermina Citlali Aguilera Montero,Ingeniería Mecatrónica,Frontend Developer,Go,4,Avanzado,Querétaro,50500.0
+Ing. Pamela Canales,Licenciatura en Ciencia de Datos,QA Engineer,PHP,2,Avanzado,Querétaro,43000.0
+Flavio Tovar,Licenciatura en Actuaría,Frontend Developer,Go,2,Básico,Remoto Internacional,38700.0
+Victoria Fernández,Ingeniería de Software,Frontend Developer,Python,9,Avanzado,Puebla,67100.0
+Elisa Jonás Sanches,Licenciatura en Actuaría,Data Scientist,JavaScript,1,Básico,Remoto Nacional,37500.0
+Mtro. Jacinto Nieto,Ingeniería Mecatrónica,Tech Lead,Go,13,Básico,CDMX,97700.0
+Caridad Quintero Ybarra,Licenciatura en Ciencia de Datos,Frontend Developer,Java,7,Básico,Remoto Internacional,55600.0
+Araceli Lilia Sosa Valentín,Licenciatura en Actuaría,Frontend Developer,JavaScript,2,Avanzado,Remoto Internacional,71200.0
+Aldonza Véliz,Ingeniería en Inteligencia Artificial,DevOps Engineer,JavaScript,3,Avanzado,Guadalajara,69400.0
+Mtro. Evelio Acosta,Licenciatura en Actuaría,Junior Developer,Go,1,Avanzado,Puebla,24500.0
+Lic. Teresa Valdés,Licenciatura en Matemáticas Aplicadas,Data Analyst,Go,5,Básico,Guadalajara,36400.0
+Amalia Olivia Pedraza Bahena,Ingeniería en Inteligencia Artificial,QA Engineer,PHP,1,Avanzado,Querétaro,35100.0
+Abelardo Aurora Becerra,Ingeniería en Sistemas Computacionales,Data Scientist,Swift,10,Básico,Guadalajara,71600.0
+Verónica Olivárez Lozada,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Swift,1,Básico,Guadalajara,43600.0
+Inés Meraz,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,8,Intermedio,Guadalajara,75500.0
+Andrea Robledo,Ingeniería Mecatrónica,QA Engineer,C#,5,Intermedio,Mérida,36900.0
+Aldo Margarita Soto,Licenciatura en Matemáticas Aplicadas,Data Scientist,Go,5,Avanzado,Monterrey,93100.0
+Nadia Marcos Márquez,Ingeniería Mecatrónica,Machine Learning Engineer,Java,6,Intermedio,Remoto Internacional,104600.0
+Sr(a). Jos Almanza,Ingeniería en Inteligencia Artificial,Fullstack Developer,Java,2,Intermedio,Remoto Nacional,39500.0
+Eva Guerra Huerta,Licenciatura en Matemáticas Aplicadas,Data Scientist,JavaScript,10,Básico,Monterrey,64500.0
+Berta Chávez,Ingeniería en Telemática,QA Engineer,R,10,Intermedio,Mérida,44100.0
+Hermelinda Lorena Monroy Carvajal,Ingeniería en Inteligencia Artificial,Junior Developer,JavaScript,1,Avanzado,Guadalajara,32800.0
+Sofía Germán Bravo Carrera,Ingeniería de Software,Tech Lead,C#,6,Intermedio,Monterrey,86200.0
+Esther Méndez Manzanares,Ingeniería de Software,Backend Developer,PHP,5,Básico,Mérida,33600.0
+Diana Juárez,Ingeniería en Telemática,Data Scientist,Go,7,Básico,CDMX,57100.0
+Jorge Pedroza,Licenciatura en Actuaría,QA Engineer,Java,5,Intermedio,Mérida,36700.0
+Lic. Norma Godoy,Ingeniería Mecatrónica,Machine Learning Engineer,Python,3,Intermedio,Remoto Nacional,59200.0
+Dr. Guillermina Gutiérrez,Licenciatura en Ciencia de Datos,Frontend Developer,Go,2,Básico,CDMX,33100.0
+Ing. Verónica Padrón,Ingeniería en Sistemas Computacionales,QA Engineer,PHP,2,Avanzado,Remoto Nacional,42000.0
+Javier María Paredes Guevara,Licenciatura en Matemáticas Aplicadas,Backend Developer,Python,4,Avanzado,Querétaro,62900.0
+Abigail Pedro Sosa,Ingeniería en Telemática,Backend Developer,Python,2,Avanzado,Guadalajara,55400.0
+Sr(a). Sergio Barajas,Licenciatura en Actuaría,Frontend Developer,Go,7,Avanzado,Mérida,52900.0
+Genaro Carrillo Mendoza,Ingeniería en Inteligencia Artificial,Fullstack Developer,Java,8,Avanzado,Monterrey,85700.0
+Guadalupe Villalobos Solano,Ingeniería de Software,Machine Learning Engineer,Python,2,Avanzado,Remoto Internacional,111100.0
+Amelia Carolina de Anda Rosales,Licenciatura en Actuaría,Tech Lead,Swift,13,Básico,Remoto Internacional,122300.0
+Roberto de la Crúz Vásquez,Licenciatura en Actuaría,Fullstack Developer,Java,7,Básico,Remoto Internacional,62300.0
+Mitzy Rosario Sánchez,Ingeniería Mecatrónica,Fullstack Developer,Python,8,Intermedio,Mérida,52200.0
+Dalia Barela,Ingeniería Mecatrónica,Backend Developer,Java,6,Avanzado,Querétaro,64800.0
+Oswaldo Heredia Arteaga,Ingeniería Mecatrónica,Tech Lead,Python,7,Intermedio,Monterrey,96000.0
+Marisela Germán Garay Negrete,Ingeniería Mecatrónica,QA Engineer,JavaScript,10,Avanzado,Querétaro,81300.0
+Oswaldo Villalpando,Ingeniería en Inteligencia Artificial,Data Scientist,JavaScript,2,Intermedio,Guadalajara,49900.0
+Luz Arturo Salas,Licenciatura en Actuaría,Junior Developer,Java,1,Avanzado,Monterrey,36300.0
+Arcelia Ortiz Mondragón,Licenciatura en Actuaría,DevOps Engineer,Go,7,Avanzado,Monterrey,87600.0
+Vicente Mayorga,Licenciatura en Actuaría,Backend Developer,Java,2,Intermedio,CDMX,47000.0
+Tomás Alfaro Ordóñez,Ingeniería en Inteligencia Artificial,Backend Developer,Go,3,Avanzado,Guadalajara,54700.0
+Mitzy Frida Cadena,Licenciatura en Ciencia de Datos,Tech Lead,Java,9,Básico,CDMX,79200.0
+Jerónimo Sierra,Ingeniería de Software,Fullstack Developer,R,1,Intermedio,Remoto Internacional,53800.0
+Rubén Irene Cedillo Rodrígez,Ingeniería en Inteligencia Artificial,QA Engineer,Swift,5,Básico,Guadalajara,37200.0
+José Luis Victoria Gastélum Sanches,Ingeniería en Inteligencia Artificial,Frontend Developer,C#,8,Avanzado,Puebla,62400.0
+Catalina Andrés Marroquín Mercado,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,JavaScript,9,Intermedio,Mérida,68800.0
+Cristina Correa Valenzuela,Licenciatura en Actuaría,Frontend Developer,Java,9,Intermedio,Monterrey,62300.0
+Luis Manuel Abigail Granados Negrón,Ingeniería de Software,Data Scientist,PHP,4,Básico,Puebla,44800.0
+Aurora Carrera,Ingeniería en Telemática,Fullstack Developer,Java,1,Intermedio,Mérida,30400.0
+Ing. Aldonza Gastélum,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,PHP,8,Avanzado,Mérida,80000.0
+Sergio Niño Chávez,Licenciatura en Ciencia de Datos,Data Analyst,Go,4,Intermedio,Remoto Internacional,60100.0
+Dr. Camila Pelayo,Licenciatura en Actuaría,Data Analyst,Java,5,Básico,Querétaro,32900.0
+María Cristina Amelia Alejandro Tijerina,Ingeniería en Telemática,Frontend Developer,Swift,1,Intermedio,Remoto Nacional,33100.0
+Nicolás Josefina Castro,Ingeniería de Software,Data Scientist,Go,9,Avanzado,Guadalajara,97500.0
+Jos Irizarry,Ingeniería Mecatrónica,QA Engineer,Go,9,Avanzado,Guadalajara,81000.0
+Iván Aguayo Lozada,Licenciatura en Matemáticas Aplicadas,Tech Lead,PHP,15,Avanzado,CDMX,178000.0
+Lorena Ignacio Orosco Posada,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,5,Avanzado,Guadalajara,75200.0
+Teodoro Bueno Cuellar,Licenciatura en Ciencia de Datos,Fullstack Developer,C#,6,Básico,Remoto Internacional,70700.0
+Mauro Arenas,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,PHP,8,Básico,Monterrey,68000.0
+Dr. Miguel Córdova,Ingeniería en Telemática,Data Scientist,R,2,Intermedio,Monterrey,52900.0
+María José Pérez,Ingeniería Mecatrónica,Tech Lead,Python,9,Básico,Guadalajara,76100.0
+Esmeralda Roberto Montoya,Licenciatura en Ciencia de Datos,Frontend Developer,R,8,Avanzado,Remoto Internacional,112300.0
+Caridad René Armas Cadena,Ingeniería Mecatrónica,Data Analyst,Swift,6,Intermedio,Puebla,43100.0
+Mtro. Mónica Mata,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Python,10,Avanzado,Mérida,82500.0
+Rufino Zoé Rael Lara,Licenciatura en Ciencia de Datos,Machine Learning Engineer,C#,9,Básico,Puebla,54300.0
+Augusto Gloria Véliz,Ingeniería en Telemática,Data Scientist,C#,1,Intermedio,Puebla,46700.0
+Dr. Diego Negrón,Ingeniería en Inteligencia Artificial,DevOps Engineer,Swift,8,Avanzado,CDMX,96800.0
+Guillermina Estela Castellanos,Ingeniería en Inteligencia Artificial,Frontend Developer,JavaScript,5,Avanzado,CDMX,69900.0
+Esparta Magdalena Riojas Corral,Ingeniería en Telemática,Backend Developer,R,7,Básico,Querétaro,48100.0
+Hermelinda Mariano Meza Ureña,Licenciatura en Ciencia de Datos,QA Engineer,PHP,3,Intermedio,CDMX,40400.0
+Federico de Anda Ramos,Ingeniería en Sistemas Computacionales,Data Analyst,Java,1,Básico,Puebla,21800.0
+Débora Judith Sauceda,Ingeniería Mecatrónica,DevOps Engineer,Swift,10,Avanzado,Guadalajara,105200.0
+María Luisa Benito Moreno,Ingeniería en Sistemas Computacionales,DevOps Engineer,C#,2,Avanzado,CDMX,73800.0
+Sr(a). Nayeli Gastélum,Ingeniería en Inteligencia Artificial,Backend Developer,Java,8,Intermedio,Mérida,52500.0
+Citlali Bermúdez Ulloa,Ingeniería en Sistemas Computacionales,Data Scientist,Go,3,Básico,Mérida,36100.0
+Irma Óscar Bustos Jiménez,Licenciatura en Ciencia de Datos,Data Scientist,R,8,Intermedio,Querétaro,72700.0
+Salma Mateo Bahena,Licenciatura en Actuaría,DevOps Engineer,Swift,9,Básico,Remoto Nacional,55500.0
+Lilia María Alonso,Ingeniería en Sistemas Computacionales,Tech Lead,Go,10,Intermedio,Puebla,78500.0
+Paulina María Cristina Lugo Muñoz,Licenciatura en Matemáticas Aplicadas,Backend Developer,R,9,Básico,Guadalajara,53400.0
+Dr. Gustavo Niño,Ingeniería en Sistemas Computacionales,DevOps Engineer,C#,9,Intermedio,Mérida,53500.0
+Marisela Espinal Maldonado,Licenciatura en Actuaría,Machine Learning Engineer,R,2,Básico,Puebla,43800.0
+Ing. Karla Parra,Ingeniería en Telemática,Data Scientist,R,9,Avanzado,Remoto Nacional,88900.0
+María Eugenia Canales Gurule,Licenciatura en Actuaría,Fullstack Developer,Python,9,Avanzado,Guadalajara,93900.0
+Silvano Leonel Cervantes,Ingeniería en Inteligencia Artificial,Data Scientist,Go,2,Básico,Remoto Internacional,58900.0
+Sofía Débora Merino Ávila,Ingeniería en Sistemas Computacionales,DevOps Engineer,Go,6,Básico,Remoto Internacional,67100.0
+Esther Mitzy Perea Tirado,Ingeniería de Software,Data Scientist,Swift,5,Intermedio,Remoto Nacional,51900.0
+Lic. Benito Montes,Licenciatura en Ciencia de Datos,Data Analyst,Java,2,Avanzado,Monterrey,46700.0
+Berta Tamayo Nieto,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Java,5,Intermedio,Mérida,59900.0
+Mtro. Reina Carmona,Ingeniería en Sistemas Computacionales,Junior Developer,Go,1,Avanzado,Monterrey,33000.0
+Mtro. Linda de la Rosa,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,JavaScript,3,Avanzado,Puebla,73700.0
+Elisa Fernando Villagómez,Licenciatura en Actuaría,Fullstack Developer,Python,8,Intermedio,Monterrey,70200.0
+Cornelio Guillermina Gollum Ramón,Licenciatura en Actuaría,Data Scientist,C#,8,Básico,Puebla,52900.0
+Rocío Gurule,Ingeniería Mecatrónica,Data Analyst,C#,1,Básico,Monterrey,31100.0
+Amanda Orozco,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Python,3,Avanzado,Remoto Nacional,78200.0
+Dr. Lilia Acuña,Licenciatura en Ciencia de Datos,Frontend Developer,C#,1,Intermedio,Remoto Internacional,42800.0
+Juan Carlos David Alemán Barrera,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,JavaScript,9,Intermedio,Mérida,63200.0
+Ing. Linda Burgos,Licenciatura en Ciencia de Datos,QA Engineer,Python,9,Avanzado,Remoto Internacional,110800.0
+José Emilio Pedro Luna Preciado,Licenciatura en Actuaría,Junior Developer,Go,2,Avanzado,Puebla,31600.0
+Dr. Camila Vallejo,Licenciatura en Ciencia de Datos,Backend Developer,C#,7,Intermedio,Guadalajara,63100.0
+Ing. René Carbajal,Licenciatura en Ciencia de Datos,Junior Developer,R,0,Avanzado,Remoto Internacional,38700.0
+Helena Venegas Concepción,Ingeniería en Sistemas Computacionales,Data Analyst,Swift,3,Intermedio,Querétaro,40000.0
+José Hilda Garica,Licenciatura en Matemáticas Aplicadas,Junior Developer,Java,1,Intermedio,Querétaro,20400.0
+Estela Genaro Munguía Pabón,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Python,5,Básico,Mérida,47700.0
+Adriana Altamirano Gaona,Licenciatura en Ciencia de Datos,Junior Developer,Java,2,Básico,Monterrey,21200.0
+Patricia Beltrán,Ingeniería Mecatrónica,Backend Developer,Python,2,Avanzado,CDMX,61400.0
+Minerva Briones,Ingeniería en Inteligencia Artificial,Tech Lead,Go,12,Básico,Puebla,71300.0
+Arcelia Arreola Barela,Licenciatura en Actuaría,Frontend Developer,Go,1,Avanzado,Guadalajara,47500.0
+Marisela Frida Echeverría Tijerina,Licenciatura en Actuaría,Frontend Developer,JavaScript,8,Avanzado,Monterrey,77300.0
+Mónica Robledo,Ingeniería en Sistemas Computacionales,Data Scientist,PHP,8,Avanzado,CDMX,112300.0
+Dr. Fabiola Piña,Ingeniería en Sistemas Computacionales,Junior Developer,C#,1,Intermedio,Mérida,18100.0
+Isabel Sofía Correa,Licenciatura en Ciencia de Datos,Data Analyst,Swift,7,Básico,Remoto Internacional,59700.0
+Ing. Alejandro Alcaraz,Ingeniería en Inteligencia Artificial,Tech Lead,Go,7,Avanzado,Querétaro,109800.0
+José Eduardo Magaña Rentería,Ingeniería en Sistemas Computacionales,Data Scientist,C#,5,Avanzado,CDMX,83900.0
+Dr. Ana Luisa Ferrer,Ingeniería de Software,Data Analyst,R,4,Avanzado,CDMX,57400.0
+Serafín Darío Paredes,Ingeniería en Sistemas Computacionales,Backend Developer,PHP,4,Básico,Remoto Internacional,48000.0
+Raúl Miguel Ángel Alba González,Ingeniería de Software,Fullstack Developer,PHP,1,Avanzado,Monterrey,60700.0
+Gabriela Nevárez,Ingeniería en Sistemas Computacionales,Frontend Developer,Swift,1,Intermedio,Mérida,28000.0
+Claudia Camila Patiño Ortiz,Ingeniería de Software,Tech Lead,Go,6,Avanzado,Monterrey,111900.0
+Zacarías Casas Aguilar,Licenciatura en Ciencia de Datos,Data Scientist,C#,8,Básico,CDMX,60000.0
+Sr(a). Israel Bétancourt,Ingeniería Mecatrónica,Fullstack Developer,Go,2,Intermedio,Querétaro,45700.0
+Dr. Laura Verduzco,Licenciatura en Actuaría,QA Engineer,Swift,4,Intermedio,CDMX,44500.0
+Sr(a). Delia Gallardo,Ingeniería en Telemática,Data Scientist,Swift,4,Avanzado,Puebla,71900.0
+Gabriela Caridad Sotelo Jaime,Ingeniería en Sistemas Computacionales,DevOps Engineer,Swift,7,Básico,Mérida,40700.0
+Oswaldo Diego Bahena Carbajal,Ingeniería en Sistemas Computacionales,Backend Developer,JavaScript,1,Intermedio,Monterrey,37600.0
+Iván Luz Mejía Carrillo,Ingeniería en Inteligencia Artificial,Backend Developer,Python,3,Básico,Mérida,27800.0
+José Emilio Omar Zepeda Riojas,Ingeniería Mecatrónica,Data Analyst,R,7,Avanzado,Guadalajara,71900.0
+Rolando Valenzuela Marrero,Licenciatura en Ciencia de Datos,Data Scientist,Python,2,Básico,Querétaro,46200.0
+Pascual Sessa Cardona Tijerina,Licenciatura en Actuaría,Junior Developer,Go,0,Básico,Guadalajara,15900.0
+Alejandro Montoya Valladares,Ingeniería en Sistemas Computacionales,Junior Developer,R,0,Avanzado,Puebla,21300.0
+Amanda Garica,Ingeniería de Software,Tech Lead,Go,12,Intermedio,Remoto Internacional,153400.0
+Oswaldo Maximiliano Perea Cisneros,Ingeniería en Telemática,Junior Developer,C#,2,Intermedio,CDMX,27200.0
+Abelardo Palacios Campos,Licenciatura en Matemáticas Aplicadas,Data Scientist,C#,2,Intermedio,Guadalajara,58200.0
+Lic. Gabino Oquendo,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,4,Básico,Puebla,41100.0
+Jacinto Luis Arenas Carranza,Licenciatura en Actuaría,DevOps Engineer,PHP,3,Intermedio,Mérida,46500.0
+Lic. Julio Pedraza,Licenciatura en Ciencia de Datos,DevOps Engineer,Swift,8,Avanzado,Mérida,73900.0
+Cynthia Lucía Regalado,Licenciatura en Actuaría,DevOps Engineer,Python,5,Básico,Puebla,45700.0
+Angélica Francisca Soliz,Ingeniería de Software,Data Analyst,Python,5,Intermedio,Remoto Nacional,42500.0
+Lic. Liliana Estrada,Licenciatura en Ciencia de Datos,Backend Developer,Python,6,Intermedio,Mérida,45400.0
+Araceli Solís,Licenciatura en Ciencia de Datos,Data Analyst,C#,5,Avanzado,Querétaro,63600.0
+Sr(a). Modesto Loera,Licenciatura en Actuaría,Machine Learning Engineer,C#,1,Avanzado,Mérida,56200.0
+Leonardo Ramón Meléndez,Licenciatura en Matemáticas Aplicadas,QA Engineer,JavaScript,6,Básico,Guadalajara,38100.0
+Francisco Guillermina López,Licenciatura en Ciencia de Datos,Data Analyst,Go,3,Intermedio,Remoto Internacional,48100.0
+Eric Caridad Frías,Licenciatura en Ciencia de Datos,Data Analyst,Python,9,Avanzado,Remoto Internacional,111400.0
+Lic. Irma Ramos,Ingeniería en Sistemas Computacionales,QA Engineer,R,2,Intermedio,Mérida,29000.0
+Santiago Rodríguez,Ingeniería de Software,Data Analyst,PHP,8,Intermedio,Mérida,42300.0
+Gloria Rodolfo Orellana,Ingeniería en Telemática,Junior Developer,Python,0,Avanzado,Remoto Internacional,38700.0
+Virginia Colunga,Licenciatura en Actuaría,Data Analyst,R,5,Avanzado,Guadalajara,59100.0
+Federico Díaz,Licenciatura en Matemáticas Aplicadas,Frontend Developer,R,2,Avanzado,Querétaro,49500.0
+Sr(a). Raúl Rosario,Licenciatura en Ciencia de Datos,Backend Developer,Python,3,Intermedio,Querétaro,43400.0
+Bruno Pedroza,Ingeniería en Sistemas Computacionales,Tech Lead,Java,10,Intermedio,Monterrey,114900.0
+Mitzy Francisca Vanegas,Ingeniería de Software,Machine Learning Engineer,Go,10,Intermedio,Monterrey,91300.0
+Fernando Mitzy Montes Colunga,Ingeniería en Inteligencia Artificial,QA Engineer,Swift,9,Básico,Querétaro,40200.0
+Humberto Madera Rincón,Ingeniería en Inteligencia Artificial,Tech Lead,Go,12,Básico,Guadalajara,85100.0
+Noemí Ríos,Licenciatura en Matemáticas Aplicadas,Tech Lead,Java,9,Avanzado,Guadalajara,131500.0
+Eduardo Frías Abrego,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Java,6,Intermedio,CDMX,72100.0
+Concepción Rentería,Ingeniería de Software,Tech Lead,Swift,11,Avanzado,Puebla,119700.0
+Sonia Rosario del Río,Ingeniería en Sistemas Computacionales,Tech Lead,R,10,Básico,Remoto Nacional,76400.0
+Abel Camila Casillas Tamez,Ingeniería Mecatrónica,Backend Developer,R,8,Básico,Puebla,41100.0
+Leticia Linares,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,JavaScript,1,Avanzado,Mérida,44800.0
+Lic. Adalberto Arias,Ingeniería de Software,Fullstack Developer,Python,2,Intermedio,Querétaro,43100.0
+Ing. Uriel Viera,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,2,Básico,Remoto Internacional,55300.0
+Abraham Valdez,Licenciatura en Actuaría,Machine Learning Engineer,Python,6,Básico,Monterrey,59900.0
+Noemí Gregorio Saldivar,Ingeniería Mecatrónica,Frontend Developer,Go,9,Avanzado,Guadalajara,89700.0
+Jorge Ramiro Guerra,Ingeniería Mecatrónica,Backend Developer,JavaScript,6,Avanzado,Monterrey,81700.0
+Ing. Itzel Espinoza,Licenciatura en Matemáticas Aplicadas,Data Analyst,C#,6,Avanzado,CDMX,74600.0
+Óliver David Casárez Garrido,Ingeniería Mecatrónica,Data Scientist,Go,9,Avanzado,Remoto Nacional,87300.0
+Soledad Norma Calvillo Benítez,Ingeniería Mecatrónica,Tech Lead,C#,14,Avanzado,Puebla,131000.0
+Manuel Alejandro,Licenciatura en Actuaría,Machine Learning Engineer,PHP,6,Básico,Monterrey,64000.0
+Micaela Armas Villegas,Ingeniería en Telemática,Backend Developer,PHP,4,Intermedio,Mérida,36600.0
+Rosario Santacruz Roque,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Python,8,Avanzado,Monterrey,88600.0
+Darío Velázquez Badillo,Licenciatura en Actuaría,Machine Learning Engineer,R,1,Básico,Monterrey,48000.0
+Lic. Elias Cantú,Ingeniería Mecatrónica,Junior Developer,JavaScript,0,Básico,Remoto Internacional,24200.0
+Samuel Peres,Ingeniería de Software,QA Engineer,Go,1,Avanzado,Remoto Nacional,38300.0
+Paola Medrano Serna,Ingeniería Mecatrónica,Junior Developer,PHP,1,Básico,Monterrey,20200.0
+Santiago Flores Carranza,Licenciatura en Ciencia de Datos,QA Engineer,PHP,2,Avanzado,Querétaro,46000.0
+Conchita Cavazos Ojeda,Licenciatura en Matemáticas Aplicadas,QA Engineer,PHP,10,Intermedio,Puebla,53200.0
+Noelia Adriana Gallardo Samaniego,Ingeniería en Telemática,DevOps Engineer,PHP,2,Básico,Monterrey,46500.0
+Porfirio Carrero Rocha,Licenciatura en Ciencia de Datos,Fullstack Developer,R,10,Básico,Remoto Internacional,74200.0
+Mtro. Fidel Madrid,Licenciatura en Ciencia de Datos,Junior Developer,Swift,0,Intermedio,CDMX,23600.0
+Flavio Gastélum Suárez,Licenciatura en Ciencia de Datos,Data Scientist,JavaScript,3,Intermedio,Remoto Internacional,82600.0
+Eduardo Ponce Chapa,Licenciatura en Ciencia de Datos,Machine Learning Engineer,PHP,9,Intermedio,Guadalajara,90800.0
+Juan Héctor Zambrano,Licenciatura en Ciencia de Datos,QA Engineer,JavaScript,7,Avanzado,Remoto Nacional,61400.0
+Sr(a). Conchita Lucero,Ingeniería de Software,Junior Developer,Java,0,Avanzado,Remoto Internacional,37500.0
+Ing. Estela Tórrez,Licenciatura en Ciencia de Datos,DevOps Engineer,C#,8,Intermedio,Monterrey,80200.0
+Gloria Ana Luisa Fajardo,Licenciatura en Ciencia de Datos,Data Scientist,C#,4,Básico,CDMX,52300.0
+Alta  Gracia Leonardo Huerta,Ingeniería en Inteligencia Artificial,DevOps Engineer,R,7,Intermedio,Querétaro,64400.0
+Hernán Gaitán,Licenciatura en Actuaría,DevOps Engineer,C#,4,Intermedio,Mérida,46200.0
+Mtro. Dolores Casárez,Licenciatura en Ciencia de Datos,Tech Lead,Java,11,Avanzado,Monterrey,144900.0
+Leonel Luevano,Ingeniería Mecatrónica,QA Engineer,PHP,3,Avanzado,Mérida,36000.0
+Bianca Yuridia Barreto,Ingeniería de Software,Backend Developer,R,10,Intermedio,Mérida,53300.0
+Guillermo Mota Olivas,Ingeniería en Telemática,Machine Learning Engineer,JavaScript,2,Avanzado,Querétaro,65900.0
+Miguel Ángel Vanegas Venegas,Licenciatura en Matemáticas Aplicadas,Data Scientist,C#,7,Básico,CDMX,64900.0
+Marco Antonio Roybal,Ingeniería de Software,Data Analyst,Java,9,Avanzado,Mérida,68800.0
+Salma Calderón Marrero,Licenciatura en Actuaría,Data Analyst,JavaScript,10,Intermedio,Mérida,49000.0
+Carlos Baeza,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,C#,4,Básico,Remoto Nacional,50300.0
+Abigail Hernán Jimínez Arenas,Ingeniería de Software,QA Engineer,Java,7,Básico,Monterrey,43700.0
+Patricia Vicente Osorio Gamboa,Ingeniería en Inteligencia Artificial,Frontend Developer,Python,3,Avanzado,Remoto Nacional,45500.0
+Ing. Amanda Madrid,Ingeniería en Inteligencia Artificial,Fullstack Developer,JavaScript,6,Intermedio,Monterrey,63600.0
+Karina Natalia Briseño Duarte,Licenciatura en Matemáticas Aplicadas,Junior Developer,C#,1,Básico,CDMX,20300.0
+Ivonne Quesada,Ingeniería en Inteligencia Artificial,Data Scientist,Java,8,Intermedio,Remoto Nacional,72300.0
+Ing. Barbara Alemán,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Java,3,Avanzado,Guadalajara,76700.0
+Mtro. Uriel Sandoval,Ingeniería Mecatrónica,QA Engineer,Java,3,Avanzado,Remoto Internacional,68400.0
+Yuridia Natividad Gaitán,Ingeniería en Sistemas Computacionales,Tech Lead,PHP,11,Avanzado,CDMX,134800.0
+Ing. Amanda Montenegro,Ingeniería en Sistemas Computacionales,DevOps Engineer,Java,1,Básico,Mérida,33200.0
+Lic. Felix Chávez,Ingeniería de Software,Data Analyst,Swift,1,Avanzado,Remoto Internacional,63100.0
+Guillermina Rincón Cisneros,Licenciatura en Ciencia de Datos,QA Engineer,PHP,10,Intermedio,Monterrey,66800.0
+Lorena Israel Iglesias Valentín,Ingeniería Mecatrónica,Data Scientist,Python,4,Intermedio,Monterrey,65400.0
+Sr(a). Amanda Espino,Ingeniería en Inteligencia Artificial,Frontend Developer,Go,4,Avanzado,Guadalajara,60800.0
+César Rebeca Tórrez,Ingeniería en Sistemas Computacionales,Backend Developer,JavaScript,2,Básico,Querétaro,33800.0
+Dr. Adán Prieto,Ingeniería en Sistemas Computacionales,Frontend Developer,PHP,9,Intermedio,Puebla,51200.0
+Eloy Socorro Batista Zelaya,Ingeniería de Software,Machine Learning Engineer,R,5,Intermedio,Guadalajara,68200.0
+José María Raquel Villanueva Solano,Licenciatura en Actuaría,DevOps Engineer,Python,4,Avanzado,Remoto Internacional,108300.0
+Abigail Melgar,Ingeniería en Telemática,Fullstack Developer,PHP,2,Avanzado,Remoto Internacional,83800.0
+Leticia Israel Ruelas Ayala,Ingeniería de Software,Data Scientist,Python,7,Intermedio,Puebla,57200.0
+María del Carmen Guerra,Licenciatura en Matemáticas Aplicadas,Tech Lead,R,8,Básico,Remoto Nacional,67000.0
+Emilio Teresa Carbajal Perales,Ingeniería de Software,Backend Developer,Swift,3,Intermedio,Monterrey,47200.0
+Abel Delia Esparza García,Licenciatura en Ciencia de Datos,Junior Developer,C#,0,Avanzado,CDMX,30100.0
+Jonás Camila Montemayor,Ingeniería de Software,Backend Developer,Java,3,Avanzado,Guadalajara,63100.0
+Minerva de Jesús,Ingeniería en Telemática,Junior Developer,Swift,1,Intermedio,Remoto Internacional,29500.0
+Porfirio Estefanía Leiva,Ingeniería en Telemática,Backend Developer,Python,2,Básico,Mérida,25300.0
+Santiago Cabrera,Ingeniería Mecatrónica,Tech Lead,PHP,10,Básico,Querétaro,72000.0
+Vanesa Mario Alcántar,Ingeniería Mecatrónica,QA Engineer,Go,9,Básico,Guadalajara,46400.0
+Mtro. Jorge Luis Valentín,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Java,8,Básico,Remoto Internacional,88400.0
+Lic. Timoteo Angulo,Ingeniería en Telemática,Data Scientist,Swift,4,Avanzado,Monterrey,86500.0
+Julio Victoria Terán,Ingeniería en Telemática,Tech Lead,Go,11,Básico,CDMX,95800.0
+Jacobo Zúñiga Corona,Ingeniería en Inteligencia Artificial,Junior Developer,Go,0,Avanzado,Remoto Nacional,26300.0
+Sr(a). Julio Gaitán,Ingeniería en Sistemas Computacionales,Fullstack Developer,Swift,2,Intermedio,Querétaro,44600.0
+Teresa Francisco Javier Zepeda,Licenciatura en Actuaría,QA Engineer,Java,5,Intermedio,Guadalajara,43300.0
+Georgina Perla Zepeda,Ingeniería en Sistemas Computacionales,Backend Developer,Java,8,Intermedio,Mérida,49600.0
+Susana Paulina Robles,Ingeniería en Inteligencia Artificial,Backend Developer,Swift,4,Intermedio,Querétaro,48200.0
+Rebeca Lozada,Licenciatura en Ciencia de Datos,Data Analyst,R,10,Básico,Monterrey,50700.0
+Juan Santiago Sierra Borrego,Ingeniería en Sistemas Computacionales,Backend Developer,R,10,Básico,Monterrey,58400.0
+Lic. Silvano Robledo,Licenciatura en Ciencia de Datos,Frontend Developer,JavaScript,9,Avanzado,Querétaro,75400.0
+Marcos Claudio Rentería,Ingeniería de Software,Frontend Developer,C#,4,Avanzado,CDMX,64500.0
+David Mondragón,Licenciatura en Ciencia de Datos,Machine Learning Engineer,Go,1,Intermedio,Puebla,43900.0
+Isabela Ivonne Benavídez,Ingeniería en Telemática,Backend Developer,Swift,6,Avanzado,Mérida,53800.0
+Raúl Grijalva,Licenciatura en Actuaría,Data Scientist,R,9,Básico,Remoto Nacional,58700.0
+Alicia Jacinto Nazario Ocasio,Ingeniería en Sistemas Computacionales,Tech Lead,PHP,10,Intermedio,CDMX,108700.0
+Elisa Eugenia Maya Ibarra,Ingeniería en Sistemas Computacionales,QA Engineer,PHP,1,Avanzado,Remoto Internacional,57700.0
+Raúl Bruno Hinojosa Jurado,Licenciatura en Matemáticas Aplicadas,Frontend Developer,C#,8,Avanzado,Puebla,66500.0
+Gabriela Armando Zambrano Balderas,Licenciatura en Actuaría,Tech Lead,Python,11,Intermedio,Remoto Internacional,131300.0
+Evelio Abril Madrigal Rocha,Ingeniería Mecatrónica,Backend Developer,Java,4,Intermedio,Puebla,38100.0
+Federico Eduardo Batista,Ingeniería en Inteligencia Artificial,QA Engineer,Go,2,Avanzado,CDMX,44400.0
+Jacinto Jacinto Carreón,Ingeniería en Sistemas Computacionales,Backend Developer,Swift,5,Intermedio,Guadalajara,56300.0
+Evelio Balderas,Ingeniería Mecatrónica,Data Analyst,PHP,1,Intermedio,Monterrey,32100.0
+Alfredo Adán Cordero,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Java,6,Avanzado,Mérida,71400.0
+Frida Adela Razo Matos,Licenciatura en Ciencia de Datos,Machine Learning Engineer,C#,5,Intermedio,Remoto Internacional,83700.0
+Jorge Ramiro Aguilera Ornelas,Licenciatura en Matemáticas Aplicadas,QA Engineer,Python,3,Intermedio,Remoto Internacional,45000.0
+Fabiola Yuridia Yáñez,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,R,10,Intermedio,Puebla,59200.0
+Rosalia Botello,Ingeniería en Sistemas Computacionales,Tech Lead,Python,7,Avanzado,Monterrey,139300.0
+Adán Sonia Dueñas Zúñiga,Ingeniería en Telemática,Fullstack Developer,Python,2,Avanzado,CDMX,61100.0
+Perla Humberto Lovato,Licenciatura en Ciencia de Datos,Junior Developer,Java,0,Avanzado,Mérida,23200.0
+Silvia Alfonso Carrera Cuellar,Ingeniería en Sistemas Computacionales,Junior Developer,Java,2,Básico,Monterrey,22400.0
+Guillermo Caridad Quezada Flores,Ingeniería en Telemática,Fullstack Developer,PHP,2,Intermedio,Querétaro,40300.0
+Dr. Hilda Escalante,Ingeniería de Software,Machine Learning Engineer,PHP,6,Avanzado,Guadalajara,90500.0
+Verónica Aguayo Caballero,Ingeniería en Sistemas Computacionales,Fullstack Developer,Go,4,Avanzado,Monterrey,74700.0
+Esmeralda Matos,Ingeniería en Inteligencia Artificial,Frontend Developer,Python,10,Avanzado,Guadalajara,92400.0
+Paola María Cristina Rubio Delgado,Licenciatura en Actuaría,Data Analyst,JavaScript,8,Avanzado,Guadalajara,84500.0
+Lic. Luis Manuel Nájera,Ingeniería de Software,DevOps Engineer,C#,1,Intermedio,Querétaro,45500.0
+Mtro. Rodolfo Malave,Licenciatura en Matemáticas Aplicadas,Data Analyst,Python,6,Avanzado,Mérida,57200.0
+Barbara Zelaya Parra,Licenciatura en Ciencia de Datos,Backend Developer,JavaScript,6,Avanzado,Puebla,57800.0
+Marisela Raquel Frías,Licenciatura en Actuaría,Machine Learning Engineer,JavaScript,1,Intermedio,Remoto Internacional,77800.0
+Verónica Aguirre,Licenciatura en Matemáticas Aplicadas,Data Scientist,C#,10,Avanzado,Querétaro,98300.0
+Caridad Márquez Orozco,Licenciatura en Matemáticas Aplicadas,Junior Developer,JavaScript,1,Básico,Puebla,16600.0
+Tania Cervántez,Ingeniería en Inteligencia Artificial,Backend Developer,Swift,1,Básico,Guadalajara,33700.0
+Elvia Castillo,Ingeniería de Software,Junior Developer,Swift,2,Intermedio,Mérida,21900.0
+Mercedes Arturo del Río Olivas,Ingeniería en Sistemas Computacionales,DevOps Engineer,C#,8,Básico,Remoto Nacional,55100.0
+Felix Esquivel Lara,Ingeniería en Inteligencia Artificial,DevOps Engineer,Python,4,Avanzado,Guadalajara,80000.0
+Víctor Puga,Ingeniería Mecatrónica,Data Scientist,R,3,Avanzado,Monterrey,87300.0
+Dr. Humberto Rivero,Ingeniería en Sistemas Computacionales,Data Analyst,PHP,5,Avanzado,Guadalajara,65600.0
+Amador Ordóñez,Licenciatura en Ciencia de Datos,QA Engineer,R,9,Avanzado,CDMX,75200.0
+Abigail Molina Mata,Ingeniería en Inteligencia Artificial,DevOps Engineer,R,2,Avanzado,Mérida,58600.0
+Ing. Vicente Marrero,Ingeniería Mecatrónica,Data Analyst,JavaScript,6,Básico,Mérida,32100.0
+Mariano Sevilla Patiño,Ingeniería Mecatrónica,Tech Lead,JavaScript,6,Intermedio,Mérida,68900.0
+Guillermina Sotelo Garrido,Licenciatura en Matemáticas Aplicadas,Backend Developer,R,9,Avanzado,Monterrey,82300.0
+Ing. Leticia Zambrano,Licenciatura en Ciencia de Datos,Backend Developer,PHP,9,Avanzado,Mérida,63100.0
+Aurelio Gabriela Urrutia Bahena,Ingeniería en Telemática,Data Analyst,Swift,2,Básico,Mérida,23800.0
+Hernán Cynthia Montenegro Bermúdez,Ingeniería en Sistemas Computacionales,Junior Developer,PHP,1,Avanzado,Puebla,28900.0
+Lic. Blanca Laboy,Licenciatura en Actuaría,Data Scientist,PHP,3,Intermedio,Remoto Nacional,54100.0
+Dr. Enrique Longoria,Licenciatura en Matemáticas Aplicadas,Frontend Developer,PHP,2,Avanzado,Remoto Nacional,48200.0
+Abigail Rodríguez Contreras,Ingeniería en Sistemas Computacionales,Data Analyst,C#,7,Avanzado,Remoto Nacional,62400.0
+Abigail Caldera Lugo,Ingeniería en Sistemas Computacionales,Data Scientist,Swift,1,Básico,Querétaro,36400.0
+Dr. Miguel Lucio,Ingeniería Mecatrónica,QA Engineer,Go,6,Avanzado,Querétaro,60600.0
+Eugenio Baca,Licenciatura en Matemáticas Aplicadas,QA Engineer,Swift,5,Avanzado,Querétaro,52700.0
+Gloria Hernández,Ingeniería en Telemática,Data Scientist,Go,10,Intermedio,Remoto Nacional,70500.0
+Lilia Ruelas Sotelo,Licenciatura en Actuaría,Fullstack Developer,C#,5,Intermedio,Remoto Internacional,71200.0
+Cristobal Mateo Gonzales Fierro,Ingeniería en Telemática,Frontend Developer,R,9,Avanzado,Remoto Nacional,74200.0
+Josefina Iván Segovia Pizarro,Ingeniería Mecatrónica,Backend Developer,Java,1,Intermedio,Mérida,29400.0
+Diego Valle,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,C#,6,Avanzado,Guadalajara,89200.0
+Ing. Gilberto Baeza,Ingeniería Mecatrónica,DevOps Engineer,Swift,3,Avanzado,Querétaro,62000.0
+Yolanda Fonseca Naranjo,Licenciatura en Ciencia de Datos,Junior Developer,Python,1,Intermedio,Querétaro,22600.0
+Adriana Cedillo Ulloa,Ingeniería en Telemática,Data Analyst,PHP,9,Básico,Mérida,39100.0
+Amelia Guardado Espinal,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Java,10,Intermedio,Guadalajara,85800.0
+Blanca Antonia Piña Rael,Ingeniería de Software,Backend Developer,JavaScript,2,Básico,CDMX,35900.0
+Zacarías Ordóñez,Ingeniería en Sistemas Computacionales,Frontend Developer,PHP,5,Avanzado,Monterrey,71200.0
+Margarita Peres Alarcón,Ingeniería de Software,Backend Developer,C#,9,Intermedio,Puebla,52900.0
+Alta  Gracia Alejandro Mesa Anaya,Ingeniería en Inteligencia Artificial,Data Scientist,PHP,2,Básico,CDMX,48300.0
+Karina Rentería Mateo,Ingeniería en Sistemas Computacionales,Frontend Developer,Python,4,Avanzado,Guadalajara,62000.0
+Carlota del Río,Ingeniería en Telemática,Fullstack Developer,R,7,Avanzado,CDMX,92800.0
+Felix Ángel Vélez,Licenciatura en Ciencia de Datos,Frontend Developer,R,2,Básico,Mérida,26300.0
+Concepción Gaytán,Licenciatura en Matemáticas Aplicadas,Data Analyst,Java,5,Básico,Remoto Nacional,32400.0
+Gabriela Uriel Velásquez Solorzano,Licenciatura en Ciencia de Datos,Frontend Developer,Swift,7,Avanzado,Remoto Nacional,69900.0
+Lucía Modesto Trujillo Vallejo,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Swift,5,Avanzado,Remoto Internacional,130800.0
+María Luisa Guillermina Colunga Verduzco,Ingeniería en Sistemas Computacionales,DevOps Engineer,JavaScript,9,Básico,Querétaro,59000.0
+Dulce María Mercedes Orosco Nieves,Ingeniería Mecatrónica,Junior Developer,Python,2,Básico,Remoto Internacional,27400.0
+Jerónimo Mayorga,Ingeniería de Software,Tech Lead,C#,10,Intermedio,Remoto Internacional,134400.0
+Mitzy Julio César Tejeda,Ingeniería de Software,Data Scientist,Swift,3,Avanzado,Querétaro,65700.0
+Teresa Rufino Lomeli,Ingeniería Mecatrónica,Junior Developer,PHP,0,Intermedio,Guadalajara,21200.0
+Catalina Estévez,Ingeniería Mecatrónica,Backend Developer,JavaScript,5,Básico,Mérida,32300.0
+Ángela Enrique Salinas Rodríquez,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Swift,3,Intermedio,Querétaro,58300.0
+Mitzy Abigail Lucio,Ingeniería Mecatrónica,Data Scientist,Python,10,Avanzado,Monterrey,115800.0
+Santiago Leticia Galarza Abreu,Ingeniería de Software,Junior Developer,R,1,Avanzado,CDMX,32900.0
+Esmeralda Ignacio Llamas Vanegas,Ingeniería en Telemática,Frontend Developer,Go,4,Avanzado,Remoto Internacional,84300.0
+Ing. Arcelia Salcedo,Licenciatura en Matemáticas Aplicadas,Junior Developer,R,1,Básico,Remoto Nacional,16400.0
+Olivia Graciela Ocasio,Ingeniería en Telemática,QA Engineer,Swift,10,Avanzado,Mérida,68700.0
+Andrea Adalberto Parra,Licenciatura en Actuaría,Data Scientist,Go,7,Avanzado,Remoto Internacional,120800.0
+Sr(a). Benito Salgado,Ingeniería en Inteligencia Artificial,Tech Lead,R,6,Avanzado,CDMX,126500.0
+Jorge Modesto Gollum,Licenciatura en Actuaría,Data Scientist,JavaScript,10,Avanzado,Querétaro,109200.0
+Evelio Juan Bustos,Ingeniería en Telemática,Frontend Developer,R,4,Intermedio,Remoto Internacional,59200.0
+Ana Barajas Santana,Ingeniería en Inteligencia Artificial,QA Engineer,PHP,7,Intermedio,Remoto Nacional,47800.0
+Antonio Aurora Reyes,Ingeniería de Software,DevOps Engineer,Java,8,Intermedio,Mérida,56500.0
+Cristal Joaquín Barraza,Ingeniería en Sistemas Computacionales,Tech Lead,C#,12,Intermedio,Guadalajara,113400.0
+Gonzalo Isaac Cardenas Portillo,Ingeniería Mecatrónica,Tech Lead,R,10,Básico,Remoto Internacional,121100.0
+Vicente Bueno,Ingeniería Mecatrónica,QA Engineer,R,9,Avanzado,Puebla,68400.0
+Pascual Longoria Véliz,Ingeniería en Sistemas Computacionales,QA Engineer,Python,10,Intermedio,CDMX,60600.0
+Adriana Garay,Licenciatura en Ciencia de Datos,Data Analyst,Swift,9,Avanzado,Guadalajara,87400.0
+Ariadna Apodaca,Ingeniería de Software,Frontend Developer,Go,8,Intermedio,Remoto Internacional,81600.0
+Lic. Isaac Ruiz,Ingeniería Mecatrónica,Tech Lead,C#,6,Intermedio,Mérida,66500.0
+Mtro. Perla Rivero,Licenciatura en Matemáticas Aplicadas,Backend Developer,C#,5,Intermedio,Querétaro,45400.0
+José Emilio Naranjo,Ingeniería Mecatrónica,Data Scientist,JavaScript,8,Intermedio,Guadalajara,80800.0
+Ing. Ángela Armenta,Licenciatura en Matemáticas Aplicadas,Junior Developer,Swift,2,Intermedio,Querétaro,26000.0
+Víctor Ana Cavazos,Ingeniería en Telemática,Machine Learning Engineer,Python,2,Avanzado,Remoto Internacional,108700.0
+José María Olivares,Licenciatura en Actuaría,QA Engineer,PHP,10,Avanzado,Remoto Internacional,107000.0
+Mtro. Mariano Acevedo,Licenciatura en Matemáticas Aplicadas,Data Scientist,C#,2,Avanzado,Guadalajara,68500.0
+Salvador Ricardo Solorzano,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,JavaScript,1,Intermedio,Querétaro,53400.0
+Jos Úrsula Verdugo Corona,Ingeniería en Sistemas Computacionales,Backend Developer,Go,2,Avanzado,Mérida,43000.0
+Delia Karla Chacón,Ingeniería Mecatrónica,Machine Learning Engineer,Java,5,Avanzado,Querétaro,78000.0
+Genaro Contreras Olvera,Ingeniería Mecatrónica,Tech Lead,PHP,10,Básico,Guadalajara,88700.0
+Juana Elvira Alcántar Carrero,Licenciatura en Matemáticas Aplicadas,Data Scientist,JavaScript,7,Avanzado,Remoto Internacional,127200.0
+Sonia Mora Brito,Ingeniería de Software,Data Analyst,JavaScript,10,Básico,Guadalajara,51400.0
+Adán Véliz Montero,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Python,9,Básico,Remoto Internacional,90700.0
+Linda Fierro,Ingeniería en Sistemas Computacionales,Tech Lead,JavaScript,7,Básico,Mérida,58000.0
+Gregorio Amalia Luna,Ingeniería en Sistemas Computacionales,Backend Developer,PHP,7,Básico,Puebla,42000.0
+David Alejandra Olivas Gamboa,Ingeniería en Inteligencia Artificial,Backend Developer,Go,3,Básico,Querétaro,33700.0
+Irene Homero Yáñez,Ingeniería en Telemática,Backend Developer,Swift,7,Básico,Guadalajara,51100.0
+Lic. Sara Gracia,Ingeniería Mecatrónica,Junior Developer,JavaScript,2,Avanzado,Monterrey,41500.0
+Angélica Miguel Ángel Luna,Ingeniería en Sistemas Computacionales,Backend Developer,R,3,Avanzado,Querétaro,55700.0
+Mateo Santiago Batista,Licenciatura en Ciencia de Datos,QA Engineer,Go,6,Intermedio,Monterrey,50300.0
+Ing. Abraham Matías,Licenciatura en Actuaría,Backend Developer,JavaScript,7,Avanzado,CDMX,86000.0
+Salvador Amalia Heredia,Ingeniería de Software,Tech Lead,Python,9,Intermedio,Guadalajara,91800.0
+Paulina Teodoro Villalpando Marín,Licenciatura en Actuaría,QA Engineer,C#,1,Avanzado,CDMX,44000.0
+Humberto Graciela Madrigal Espinal,Ingeniería de Software,Fullstack Developer,JavaScript,9,Intermedio,CDMX,70200.0
+María Eugenia Amador Arriaga Barreto,Ingeniería en Telemática,Fullstack Developer,JavaScript,6,Avanzado,Remoto Internacional,100200.0
+Ernesto Fabiola Madrigal Ojeda,Licenciatura en Ciencia de Datos,Data Scientist,Python,4,Avanzado,Puebla,67600.0
+Gloria Eric Salazar Aponte,Ingeniería Mecatrónica,QA Engineer,Python,2,Intermedio,Mérida,27900.0
+Leonardo Rivera,Ingeniería de Software,DevOps Engineer,Java,5,Básico,Remoto Internacional,63700.0
+Leonor Vázquez Hernádez,Licenciatura en Matemáticas Aplicadas,QA Engineer,Java,8,Intermedio,Puebla,47000.0
+Ing. Wilfrido Montaño,Ingeniería Mecatrónica,Frontend Developer,Swift,6,Básico,Puebla,34200.0
+María José Espartaco Salazar,Ingeniería de Software,Backend Developer,Java,10,Avanzado,CDMX,92800.0
+Ángela Abraham Contreras Apodaca,Licenciatura en Ciencia de Datos,Backend Developer,C#,6,Básico,Puebla,34600.0
+Teodoro Reyna,Ingeniería en Telemática,Data Analyst,C#,2,Avanzado,Remoto Nacional,42000.0
+Lic. Georgina Vélez,Licenciatura en Ciencia de Datos,Data Analyst,Swift,3,Intermedio,Monterrey,43700.0
+Rosalia Gallardo,Licenciatura en Actuaría,Backend Developer,Go,4,Básico,Monterrey,37700.0
+Alicia Ilse Cervantes Toledo,Ingeniería en Telemática,Tech Lead,Python,15,Básico,Mérida,86000.0
+Eduardo Hilda Esquibel Bétancourt,Licenciatura en Matemáticas Aplicadas,Data Analyst,Python,9,Intermedio,CDMX,59900.0
+Vicente Amelia Ríos,Ingeniería de Software,DevOps Engineer,JavaScript,10,Intermedio,CDMX,75500.0
+Mtro. Sessa de la Torre,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,JavaScript,9,Básico,CDMX,69600.0
+Claudio Navarro Rivas,Ingeniería Mecatrónica,QA Engineer,Go,1,Básico,Querétaro,22700.0
+Oswaldo Mauro Hidalgo Villa,Ingeniería en Sistemas Computacionales,Data Scientist,Python,8,Intermedio,Monterrey,82500.0
+Timoteo Tirado Rincón,Licenciatura en Actuaría,Tech Lead,PHP,12,Avanzado,Monterrey,148000.0
+Concepción Espartaco Luevano Rojas,Ingeniería en Inteligencia Artificial,Junior Developer,JavaScript,1,Avanzado,Guadalajara,35400.0
+Verónica Ávalos Marroquín,Licenciatura en Actuaría,Data Analyst,Swift,8,Avanzado,Monterrey,83600.0
+Sara Solís,Ingeniería Mecatrónica,Fullstack Developer,Swift,1,Avanzado,Monterrey,61500.0
+Pilar de la Fuente,Ingeniería en Telemática,Junior Developer,Java,0,Avanzado,Monterrey,26000.0
+Modesto Ochoa,Licenciatura en Actuaría,Data Scientist,Python,6,Básico,Monterrey,54200.0
+Pilar Yeni Macías Rangel,Ingeniería en Inteligencia Artificial,QA Engineer,Swift,7,Básico,Remoto Internacional,60400.0
+Ariadna Leticia Amaya Terrazas,Licenciatura en Ciencia de Datos,Junior Developer,JavaScript,0,Básico,CDMX,19200.0
+Liliana Muñiz,Ingeniería de Software,QA Engineer,Python,6,Avanzado,Guadalajara,60000.0
+Zacarías Juan Esquivel,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Go,4,Básico,Puebla,43800.0
+Emilio Gaytán,Licenciatura en Actuaría,QA Engineer,Swift,2,Avanzado,Querétaro,40700.0
+Zacarías de la Garza Olmos,Licenciatura en Matemáticas Aplicadas,Frontend Developer,JavaScript,9,Básico,Querétaro,43800.0
+Sr(a). Sergio Rosado,Ingeniería en Telemática,Data Analyst,Python,9,Avanzado,Guadalajara,82800.0
+Miguel Pilar Esquibel,Licenciatura en Actuaría,Tech Lead,PHP,8,Básico,Remoto Nacional,68600.0
+Zoé Javier Vanegas,Ingeniería en Sistemas Computacionales,Frontend Developer,JavaScript,7,Intermedio,CDMX,63500.0
+Ofelia Orta Granados,Ingeniería Mecatrónica,Machine Learning Engineer,JavaScript,2,Básico,Monterrey,50900.0
+Olga Gómez,Licenciatura en Actuaría,Machine Learning Engineer,Java,3,Avanzado,Remoto Internacional,115500.0
+María del Carmen Micaela Dávila,Ingeniería en Sistemas Computacionales,QA Engineer,Go,6,Intermedio,Querétaro,44700.0
+Anabel Orosco,Ingeniería en Telemática,Data Analyst,PHP,4,Intermedio,Monterrey,42700.0
+Sr(a). Aida Méndez,Licenciatura en Actuaría,Data Scientist,C#,1,Intermedio,Puebla,39500.0
+Dr. Reina Peña,Ingeniería en Telemática,Tech Lead,R,7,Intermedio,CDMX,99700.0
+Ramiro Solorzano,Ingeniería en Sistemas Computacionales,Tech Lead,Python,13,Básico,Mérida,74700.0
+Pascual Darío Cano,Ingeniería Mecatrónica,Fullstack Developer,R,6,Básico,CDMX,47900.0
+Dr. María José Ocampo,Ingeniería de Software,Fullstack Developer,C#,7,Básico,Querétaro,45900.0
+Ing. Jos Madrid,Licenciatura en Ciencia de Datos,Fullstack Developer,R,9,Básico,Remoto Internacional,73100.0
+Sr(a). Mauricio Salinas,Ingeniería Mecatrónica,Frontend Developer,PHP,3,Básico,Monterrey,33600.0
+Abigail Luis Miguel Bétancourt,Ingeniería en Inteligencia Artificial,DevOps Engineer,Java,2,Intermedio,CDMX,50300.0
+Mónica Martín Otero,Ingeniería en Telemática,Data Scientist,C#,4,Básico,Querétaro,47900.0
+Benito Galindo Mena,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,PHP,10,Básico,Mérida,54600.0
+Eloisa Bustamante,Ingeniería en Telemática,Backend Developer,R,9,Básico,Monterrey,55800.0
+José Manuél Olga Botello,Ingeniería en Telemática,Machine Learning Engineer,Java,1,Avanzado,Monterrey,82900.0
+Mtro. Uriel Alvarez,Licenciatura en Ciencia de Datos,Tech Lead,C#,6,Intermedio,Guadalajara,91600.0
+Porfirio Griego,Ingeniería en Inteligencia Artificial,QA Engineer,R,6,Intermedio,Mérida,40300.0
+Alonso Montaño,Licenciatura en Ciencia de Datos,Backend Developer,JavaScript,4,Intermedio,Remoto Internacional,63000.0
+Vanesa Jesús Villagómez,Ingeniería en Telemática,Machine Learning Engineer,Java,9,Básico,Querétaro,67700.0
+Rosalia Rodrigo Rojo,Ingeniería de Software,Backend Developer,Swift,5,Avanzado,Remoto Nacional,55500.0
+Nicolás Domínguez Patiño,Licenciatura en Actuaría,Junior Developer,Go,0,Básico,Puebla,12900.0
+Sr(a). Trinidad Casares,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,C#,9,Intermedio,Querétaro,72200.0
+Emilio Escobedo Valencia,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,JavaScript,4,Básico,Monterrey,56000.0
+Francisco Javier Cristina Ortiz,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Python,6,Básico,Puebla,40200.0
+Jaqueline Juana Olvera Viera,Ingeniería en Telemática,DevOps Engineer,PHP,2,Intermedio,Monterrey,54000.0
+María Elena Carrasco,Ingeniería de Software,Junior Developer,C#,2,Básico,Guadalajara,22500.0
+Alejandra Anabel Arias,Licenciatura en Matemáticas Aplicadas,Frontend Developer,JavaScript,5,Avanzado,Mérida,54000.0
+Ramón Samaniego Ureña,Ingeniería en Inteligencia Artificial,Junior Developer,Go,1,Intermedio,Puebla,18800.0
+Leticia Rebeca Serna Viera,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Python,2,Avanzado,Mérida,43300.0
+Beatriz Arredondo,Licenciatura en Ciencia de Datos,Tech Lead,Python,13,Básico,CDMX,95000.0
+Natalia Viera Hernandes,Licenciatura en Actuaría,Machine Learning Engineer,PHP,7,Intermedio,Puebla,60000.0
+Mtro. Natalia Rico,Licenciatura en Actuaría,Machine Learning Engineer,Java,3,Avanzado,CDMX,79900.0
+Lorenzo Luisa Cruz Candelaria,Licenciatura en Ciencia de Datos,Tech Lead,Java,8,Avanzado,Remoto Internacional,157200.0
+Mtro. Pascual Ybarra,Ingeniería en Inteligencia Artificial,DevOps Engineer,Python,1,Intermedio,Puebla,39400.0
+Dr. Augusto Ojeda,Licenciatura en Ciencia de Datos,QA Engineer,Swift,7,Básico,Remoto Nacional,35500.0
+Débora Isabel Viera Navarro,Ingeniería Mecatrónica,Fullstack Developer,C#,5,Básico,CDMX,49700.0
+Sandra Alfredo Meléndez,Ingeniería Mecatrónica,QA Engineer,Go,4,Intermedio,Remoto Nacional,33700.0
+Sr(a). Elvira Cazares,Ingeniería Mecatrónica,DevOps Engineer,C#,4,Intermedio,Mérida,45600.0
+Violeta Reséndez,Licenciatura en Ciencia de Datos,QA Engineer,JavaScript,7,Avanzado,Mérida,56400.0
+Óscar Agustín Sáenz Santana,Ingeniería en Inteligencia Artificial,QA Engineer,R,5,Intermedio,Monterrey,49600.0
+Sofía Florencia Padilla,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Go,3,Avanzado,Remoto Nacional,70900.0
+Federico Sierra Sisneros,Ingeniería en Sistemas Computacionales,Backend Developer,Go,6,Básico,Remoto Nacional,42600.0
+Esther Mauricio Robledo,Licenciatura en Actuaría,Data Scientist,Python,5,Avanzado,CDMX,89100.0
+Sr(a). Jesús Luna,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,C#,5,Intermedio,Monterrey,51700.0
+Lic. Estela Cano,Licenciatura en Matemáticas Aplicadas,Data Analyst,C#,2,Avanzado,Remoto Nacional,40000.0
+Guadalupe Villa,Licenciatura en Actuaría,Backend Developer,Swift,5,Avanzado,Puebla,51500.0
+Hugo Ignacio Reséndez,Ingeniería en Inteligencia Artificial,QA Engineer,Go,5,Básico,Querétaro,35900.0
+Zoé Padrón Soliz,Ingeniería Mecatrónica,QA Engineer,Python,10,Avanzado,Remoto Internacional,101300.0
+Gabriela Esther Pabón,Ingeniería en Sistemas Computacionales,QA Engineer,R,5,Básico,Remoto Internacional,46000.0
+Mtro. Marco Antonio Robledo,Ingeniería de Software,Data Scientist,Go,5,Básico,Monterrey,59800.0
+Rafaél Ramón Vázquez,Ingeniería en Telemática,Junior Developer,C#,0,Básico,Remoto Nacional,16400.0
+Ricardo Caraballo Bahena,Ingeniería en Inteligencia Artificial,Junior Developer,JavaScript,1,Avanzado,CDMX,30700.0
+José Eduardo Covarrubias Bernal,Ingeniería Mecatrónica,Data Analyst,Python,4,Básico,Puebla,29600.0
+Lucas Escobedo,Ingeniería Mecatrónica,Backend Developer,JavaScript,1,Básico,Mérida,25000.0
+Lic. Dulce María Montoya,Ingeniería de Software,Fullstack Developer,R,5,Intermedio,Puebla,49300.0
+José Emilio Tania Laureano,Licenciatura en Actuaría,Data Scientist,R,7,Básico,Monterrey,57600.0
+Leonor Anel Canales,Ingeniería en Inteligencia Artificial,Frontend Developer,Java,4,Básico,Mérida,31900.0
+Elsa Tapia,Ingeniería Mecatrónica,Data Scientist,Python,2,Básico,Querétaro,41800.0
+Amalia Cadena Saldaña,Licenciatura en Matemáticas Aplicadas,Frontend Developer,C#,9,Intermedio,Monterrey,65900.0
+Sr(a). Rodolfo Armenta,Ingeniería en Inteligencia Artificial,Tech Lead,Go,11,Básico,Mérida,68200.0
+Pilar Tejeda,Ingeniería en Telemática,Frontend Developer,C#,10,Intermedio,Puebla,59000.0
+Hernán Riojas Hidalgo,Ingeniería Mecatrónica,Fullstack Developer,Python,9,Básico,CDMX,55800.0
+Olivia Pacheco Castro,Ingeniería de Software,Tech Lead,Swift,13,Intermedio,CDMX,114400.0
+Dr. Isabel Rolón,Ingeniería en Sistemas Computacionales,Backend Developer,R,1,Avanzado,CDMX,56100.0
+Gregorio Vargas,Licenciatura en Actuaría,Junior Developer,R,0,Intermedio,Guadalajara,19800.0
+Mayte Uriel Lozada,Licenciatura en Matemáticas Aplicadas,Junior Developer,PHP,1,Básico,Monterrey,18700.0
+Cynthia Wilfrido Esquivel,Ingeniería de Software,Junior Developer,R,0,Intermedio,CDMX,23000.0
+Augusto Óscar Malave Mena,Ingeniería en Sistemas Computacionales,QA Engineer,Go,7,Básico,Puebla,36800.0
+Cristobal Susana Perales Montemayor,Ingeniería en Telemática,Machine Learning Engineer,PHP,6,Intermedio,Querétaro,68600.0
+Julio Pablo Sánchez,Licenciatura en Matemáticas Aplicadas,Tech Lead,Python,6,Intermedio,Remoto Nacional,71200.0
+Héctor Jesús Zavala Hernandes,Licenciatura en Matemáticas Aplicadas,Data Scientist,R,8,Intermedio,CDMX,85300.0
+Gabriel Catalina Almonte Chapa,Ingeniería en Sistemas Computacionales,Junior Developer,C#,0,Intermedio,Guadalajara,21700.0
+Abel Carla Medina Díaz,Licenciatura en Ciencia de Datos,QA Engineer,Go,1,Básico,Guadalajara,25600.0
+Elvia Marisol Nazario,Licenciatura en Matemáticas Aplicadas,QA Engineer,Go,8,Básico,CDMX,43600.0
+Lic. Fernando Gracia,Licenciatura en Ciencia de Datos,Machine Learning Engineer,PHP,9,Avanzado,Guadalajara,116800.0
+Benjamín Santacruz,Ingeniería en Inteligencia Artificial,Tech Lead,PHP,6,Básico,Puebla,56500.0
+Amanda Bañuelos,Licenciatura en Ciencia de Datos,DevOps Engineer,Java,8,Avanzado,Mérida,69000.0
+Minerva Alvaro Vázquez,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,C#,1,Avanzado,Guadalajara,69300.0
+Rosalia Preciado Gamboa,Licenciatura en Ciencia de Datos,Fullstack Developer,R,5,Avanzado,Puebla,60200.0
+Camila José María Jiménez,Licenciatura en Actuaría,Tech Lead,R,9,Avanzado,CDMX,135000.0
+Barbara Caldera Matos,Ingeniería en Inteligencia Artificial,Tech Lead,Python,8,Intermedio,Remoto Nacional,86700.0
+Mtro. José Carlos Colunga,Ingeniería de Software,QA Engineer,C#,3,Intermedio,Remoto Internacional,46300.0
+Lic. Guadalupe Lozano,Ingeniería en Inteligencia Artificial,Data Analyst,Python,5,Intermedio,CDMX,50200.0
+Jerónimo Arriaga,Ingeniería Mecatrónica,Fullstack Developer,Swift,6,Básico,Guadalajara,52100.0
+Lic. Enrique Cervántez,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Swift,10,Intermedio,CDMX,82000.0
+Óscar Fabiola Chacón Linares,Ingeniería de Software,QA Engineer,Go,1,Básico,Querétaro,22700.0
+Claudia Escobedo Esquibel,Licenciatura en Ciencia de Datos,Junior Developer,C#,0,Avanzado,Remoto Internacional,39400.0
+Camilo Lucía Marroquín Espinoza,Ingeniería Mecatrónica,Fullstack Developer,Python,2,Básico,Puebla,28300.0
+Santiago Sevilla,Ingeniería Mecatrónica,Backend Developer,PHP,4,Básico,Mérida,32200.0
+Andrea Domínguez,Ingeniería en Telemática,DevOps Engineer,JavaScript,9,Básico,Monterrey,66200.0
+Liliana Rincón,Licenciatura en Ciencia de Datos,Backend Developer,R,10,Básico,Guadalajara,57200.0
+Alfredo Villaseñor Lucero,Licenciatura en Matemáticas Aplicadas,Machine Learning Engineer,Java,2,Avanzado,Monterrey,78300.0
+Agustín Batista Bustos,Licenciatura en Actuaría,Junior Developer,R,2,Intermedio,CDMX,31600.0
+Eugenio Concepción,Ingeniería de Software,Frontend Developer,Go,6,Avanzado,CDMX,72800.0
+Araceli Jerónimo Olivera Bahena,Licenciatura en Actuaría,Junior Developer,PHP,2,Avanzado,Querétaro,33700.0
+Abel Silvia Echeverría,Ingeniería de Software,QA Engineer,Python,2,Básico,Remoto Nacional,23100.0
+Raquel Natividad Montes,Licenciatura en Actuaría,DevOps Engineer,PHP,1,Avanzado,Querétaro,62900.0
+Marisela Garrido Ornelas,Licenciatura en Ciencia de Datos,Junior Developer,Python,2,Básico,Guadalajara,21100.0
+Sr(a). Francisco Madrigal,Licenciatura en Ciencia de Datos,Data Analyst,Java,8,Básico,Guadalajara,47600.0
+Alfredo Ariadna Otero,Licenciatura en Matemáticas Aplicadas,Junior Developer,C#,1,Básico,Remoto Nacional,17900.0
+Dr. Gabino Lebrón,Ingeniería en Inteligencia Artificial,Data Analyst,Go,6,Intermedio,Remoto Nacional,42400.0
+Lucas Sevilla Toledo,Ingeniería Mecatrónica,Data Scientist,Swift,4,Básico,Querétaro,43700.0
+Jaime Gerardo Arevalo Negrón,Licenciatura en Actuaría,Data Scientist,R,3,Intermedio,Remoto Nacional,54900.0
+Jorge Roque,Ingeniería en Inteligencia Artificial,DevOps Engineer,PHP,8,Básico,Remoto Internacional,85700.0
+Timoteo Baca,Ingeniería en Sistemas Computacionales,Data Scientist,C#,10,Intermedio,Mérida,68900.0
+David Rangel,Ingeniería de Software,QA Engineer,PHP,7,Intermedio,Monterrey,57100.0
+Carlos Irene Arevalo Quiñónez,Licenciatura en Matemáticas Aplicadas,Backend Developer,Python,9,Básico,Remoto Internacional,71900.0
+Ing. Sergio Vázquez,Ingeniería en Inteligencia Artificial,Fullstack Developer,Go,5,Básico,Guadalajara,49000.0
+Minerva Almaraz,Ingeniería de Software,QA Engineer,JavaScript,5,Avanzado,Guadalajara,65500.0
+Dr. Raquel Tirado,Ingeniería en Sistemas Computacionales,Fullstack Developer,Python,8,Básico,Remoto Internacional,72800.0
+José María Laura Cervántez,Ingeniería en Sistemas Computacionales,Data Analyst,JavaScript,7,Avanzado,Mérida,58700.0
+Daniel Cristobal Verdugo,Ingeniería de Software,Fullstack Developer,PHP,6,Avanzado,Monterrey,85300.0
+Tania Javier Olivárez Sandoval,Ingeniería en Sistemas Computacionales,DevOps Engineer,PHP,9,Básico,Mérida,53300.0
+Bernardo Escobedo Suárez,Ingeniería de Software,Data Analyst,Go,2,Intermedio,CDMX,35800.0
+Mtro. Lorenzo Tijerina,Ingeniería en Inteligencia Artificial,QA Engineer,Swift,5,Intermedio,Guadalajara,46900.0
+Teresa Jaime Hernández,Ingeniería Mecatrónica,QA Engineer,Java,2,Avanzado,Guadalajara,43400.0
+Alvaro Natividad Zapata Tijerina,Licenciatura en Matemáticas Aplicadas,Data Scientist,Go,3,Básico,Querétaro,41500.0
+Fernando Salma de la Torre,Ingeniería de Software,Backend Developer,Java,6,Avanzado,Remoto Nacional,64500.0
+Mtro. Reina Benavídez,Ingeniería en Telemática,Tech Lead,Go,6,Intermedio,Guadalajara,89800.0
+Tania Molina Aponte,Ingeniería en Sistemas Computacionales,Junior Developer,Go,2,Intermedio,CDMX,26500.0
+Linda Bruno Villalpando Mojica,Ingeniería de Software,Junior Developer,Python,2,Avanzado,Puebla,31500.0
+Isabela Manzanares,Ingeniería de Software,Data Analyst,Go,7,Básico,Monterrey,47300.0
+Abelardo Almanza,Ingeniería en Inteligencia Artificial,Data Analyst,C#,9,Avanzado,Monterrey,88400.0
+Gloria Corral,Ingeniería en Inteligencia Artificial,DevOps Engineer,Go,8,Avanzado,Querétaro,86700.0
+Mónica Juan Carlos Cepeda,Licenciatura en Actuaría,QA Engineer,Java,8,Avanzado,CDMX,72900.0
+Leonel Jaramillo,Ingeniería Mecatrónica,Data Analyst,Swift,5,Intermedio,Remoto Internacional,66800.0
+Araceli Juana Lemus Franco,Ingeniería Mecatrónica,Data Scientist,PHP,4,Básico,Guadalajara,47600.0
+Citlali Guadalupe Hernádez,Ingeniería en Sistemas Computacionales,Junior Developer,Python,1,Básico,Monterrey,21300.0
+Aurora Reséndez Alfaro,Ingeniería en Telemática,Fullstack Developer,Go,9,Intermedio,Guadalajara,70500.0
+Horacio Alejandro Padilla Villagómez,Ingeniería en Sistemas Computacionales,Backend Developer,JavaScript,7,Intermedio,Mérida,47000.0
+Miguel Ángel Abrego,Ingeniería de Software,Junior Developer,PHP,1,Avanzado,Mérida,24500.0
+Eric Sandra Soto Montalvo,Licenciatura en Ciencia de Datos,Tech Lead,Java,14,Intermedio,Monterrey,121700.0
+Mtro. René Tello,Ingeniería en Sistemas Computacionales,Tech Lead,Go,11,Avanzado,Guadalajara,152500.0
+Eric Javier Flores,Ingeniería en Telemática,Machine Learning Engineer,Java,10,Básico,Mérida,51400.0
+José María Prieto Almanza,Ingeniería en Inteligencia Artificial,Tech Lead,PHP,6,Intermedio,Mérida,63300.0
+María Cristina Ávalos,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,9,Básico,Mérida,53500.0
+Minerva Balderas Pichardo,Ingeniería en Inteligencia Artificial,Data Analyst,Python,9,Avanzado,Puebla,70100.0
+Héctor Leyva Ramos,Ingeniería en Inteligencia Artificial,DevOps Engineer,JavaScript,3,Avanzado,CDMX,81000.0
+Nayeli Bernabé Roque Ulloa,Licenciatura en Ciencia de Datos,Data Scientist,Java,6,Básico,Puebla,51100.0
+María José Zacarías Abrego Gallardo,Ingeniería en Sistemas Computacionales,Data Scientist,R,5,Avanzado,Guadalajara,80800.0
+Abril Leonardo Guajardo,Ingeniería Mecatrónica,Data Scientist,R,4,Básico,Monterrey,55500.0
+Benjamín Herrera Velásquez,Licenciatura en Actuaría,DevOps Engineer,JavaScript,8,Avanzado,Querétaro,82400.0
+Flavio Raúl Sarabia,Licenciatura en Ciencia de Datos,Frontend Developer,JavaScript,10,Intermedio,Mérida,50700.0
+Cristian Ballesteros Tapia,Ingeniería en Sistemas Computacionales,Fullstack Developer,Go,5,Intermedio,Mérida,39400.0
+Mtro. Porfirio Garrido,Licenciatura en Actuaría,QA Engineer,Python,7,Intermedio,Mérida,36500.0
+Lourdes Blanco,Licenciatura en Matemáticas Aplicadas,Junior Developer,Java,1,Avanzado,Remoto Internacional,39200.0
+María Cristina Uriel López,Ingeniería en Sistemas Computacionales,Tech Lead,Swift,14,Básico,Querétaro,87200.0
+Cristal Enríquez Heredia,Ingeniería en Telemática,QA Engineer,JavaScript,1,Avanzado,Monterrey,43200.0
+Lic. Linda Espino,Ingeniería en Sistemas Computacionales,Data Scientist,JavaScript,4,Intermedio,Monterrey,63800.0
+Mtro. Reina Bermúdez,Ingeniería de Software,Backend Developer,Python,3,Básico,Monterrey,35000.0
+Gerardo Barraza,Ingeniería de Software,Data Analyst,PHP,10,Básico,Guadalajara,54700.0
+Alonso Margarita Gracia,Ingeniería en Inteligencia Artificial,Data Analyst,PHP,4,Básico,Mérida,26200.0
+Carla Jesús Lerma Leal,Ingeniería en Telemática,Data Scientist,Java,8,Intermedio,Guadalajara,78600.0
+Pamela Jaqueline Ibarra Camacho,Licenciatura en Ciencia de Datos,Tech Lead,R,7,Avanzado,Remoto Internacional,165300.0
+Ángel Garibay,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Go,3,Avanzado,Guadalajara,83700.0
+Amanda González Verdugo,Licenciatura en Ciencia de Datos,Junior Developer,JavaScript,1,Básico,Mérida,14600.0
+Paola Victoria Cornejo Jurado,Ingeniería Mecatrónica,Fullstack Developer,R,8,Básico,CDMX,55700.0
+Mariana Ruiz,Ingeniería en Telemática,Fullstack Developer,JavaScript,10,Avanzado,Monterrey,104200.0
+Abraham Roldán Ulibarri,Licenciatura en Matemáticas Aplicadas,Data Analyst,R,4,Básico,Mérida,28900.0
+Tomás Araceli Torres Mondragón,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Swift,4,Intermedio,Puebla,40000.0
+Alejandra Leyva Pabón,Licenciatura en Matemáticas Aplicadas,DevOps Engineer,Python,1,Intermedio,Puebla,38800.0
+José Cynthia Gurule Guardado,Ingeniería en Inteligencia Artificial,Tech Lead,R,7,Intermedio,Puebla,75000.0
+Gregorio Judith Ramón Carbajal,Ingeniería en Telemática,Machine Learning Engineer,Go,1,Básico,Remoto Internacional,61900.0
+Mtro. Isaac Farías,Ingeniería en Sistemas Computacionales,Data Scientist,PHP,9,Avanzado,Monterrey,118000.0
+Susana Marcela Rosales Vélez,Licenciatura en Actuaría,Data Scientist,JavaScript,1,Intermedio,Guadalajara,50900.0
+José Luis Godoy Reyes,Ingeniería en Sistemas Computacionales,Frontend Developer,R,4,Avanzado,Puebla,50100.0
+Cynthia Ruelas,Licenciatura en Actuaría,Backend Developer,Go,6,Avanzado,Querétaro,73800.0
+Nayeli Márquez Flores,Ingeniería Mecatrónica,Fullstack Developer,Go,7,Avanzado,Puebla,70200.0
+Gabriel Jaqueline Carrero,Licenciatura en Actuaría,Data Scientist,Python,5,Avanzado,CDMX,85400.0
+Flavio Zelaya Roybal,Ingeniería en Inteligencia Artificial,Tech Lead,Go,15,Intermedio,Monterrey,119800.0
+Dr. Gerónimo Pizarro,Ingeniería en Inteligencia Artificial,Tech Lead,Swift,6,Básico,Querétaro,69400.0
+Aurelio Espinal,Ingeniería Mecatrónica,Fullstack Developer,PHP,6,Básico,CDMX,49300.0
+Augusto Bermúdez,Licenciatura en Matemáticas Aplicadas,Data Analyst,C#,1,Básico,Mérida,23900.0
+Virginia Rosario Enríquez Quintana,Ingeniería en Telemática,Junior Developer,Go,2,Básico,Remoto Internacional,32600.0
+Lucía María José Corona Ybarra,Licenciatura en Ciencia de Datos,Tech Lead,C#,15,Intermedio,Monterrey,132600.0
+Dr. Camilo Rocha,Licenciatura en Matemáticas Aplicadas,Backend Developer,PHP,10,Básico,Remoto Nacional,53700.0
+Alfonso Jaqueline Valverde,Ingeniería en Inteligencia Artificial,DevOps Engineer,JavaScript,5,Básico,Monterrey,52300.0
+César Vallejo,Ingeniería Mecatrónica,Data Scientist,Java,5,Intermedio,Mérida,50900.0
+Amalia Ramón Casillas,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,Swift,5,Básico,Remoto Internacional,78900.0
+Armando Mateo Caraballo,Licenciatura en Actuaría,Frontend Developer,Python,10,Avanzado,Remoto Nacional,70400.0
+Francisca Tafoya Esquivel,Ingeniería de Software,Junior Developer,Java,2,Intermedio,Puebla,24600.0
+Joaquín Narváez,Ingeniería en Inteligencia Artificial,Backend Developer,JavaScript,3,Intermedio,Remoto Internacional,57800.0
+Bianca Gil,Ingeniería en Telemática,Fullstack Developer,Java,9,Avanzado,Querétaro,76500.0
+Porfirio Uribe,Ingeniería en Inteligencia Artificial,Tech Lead,JavaScript,14,Intermedio,Monterrey,112100.0
+Berta Rocío Pacheco,Ingeniería Mecatrónica,DevOps Engineer,Swift,9,Avanzado,CDMX,109900.0
+Marisela Iglesias Ortiz,Licenciatura en Actuaría,Backend Developer,PHP,8,Avanzado,Monterrey,84500.0
+Inés Natalia Reyes,Ingeniería en Telemática,Junior Developer,R,0,Intermedio,Remoto Nacional,16400.0
+Aurora Emilio Franco,Ingeniería en Inteligencia Artificial,Fullstack Developer,Go,10,Básico,Monterrey,59800.0
+Luis Amador,Ingeniería en Sistemas Computacionales,QA Engineer,JavaScript,7,Básico,CDMX,42700.0
+Ignacio Alcaraz Elizondo,Ingeniería en Telemática,Data Scientist,PHP,8,Intermedio,Remoto Internacional,108400.0
+Paola de Anda Camacho,Ingeniería en Telemática,Data Analyst,Java,6,Intermedio,CDMX,52500.0
+Sr(a). Minerva Valdés,Ingeniería de Software,Backend Developer,C#,9,Intermedio,Remoto Internacional,90200.0
+Conchita Báez,Licenciatura en Matemáticas Aplicadas,QA Engineer,PHP,9,Intermedio,Mérida,45800.0
+Ing. Gregorio de la Garza,Licenciatura en Ciencia de Datos,DevOps Engineer,JavaScript,8,Básico,Remoto Nacional,47300.0
+Violeta Moya,Ingeniería de Software,Data Scientist,C#,2,Avanzado,Remoto Internacional,103800.0
+Ing. Oswaldo Carbajal,Ingeniería en Sistemas Computacionales,Tech Lead,JavaScript,14,Intermedio,Guadalajara,113700.0
+Eduardo Montaño,Licenciatura en Matemáticas Aplicadas,Backend Developer,R,2,Básico,CDMX,35400.0
+Julio Mauricio Casares,Ingeniería en Telemática,Backend Developer,Java,7,Intermedio,Monterrey,55200.0
+Sessa Armenta Ceja,Ingeniería en Inteligencia Artificial,DevOps Engineer,JavaScript,2,Básico,Guadalajara,44500.0
+Silvia Martín Bermúdez,Licenciatura en Actuaría,Tech Lead,Python,9,Avanzado,Remoto Internacional,161100.0
+Alejandro Zacarías Salcido,Ingeniería de Software,Junior Developer,R,2,Básico,Monterrey,23100.0
+Rubén Sarabia Mesa,Licenciatura en Actuaría,Backend Developer,Python,10,Avanzado,Guadalajara,90500.0
+Sr(a). Nadia Velázquez,Ingeniería de Software,Tech Lead,Go,14,Intermedio,Remoto Internacional,152800.0
+Isaac Yuridia Saavedra Alonso,Ingeniería en Telemática,Machine Learning Engineer,Go,5,Básico,Puebla,45600.0
+Hermelinda Dulce Rocha Sáenz,Licenciatura en Actuaría,Frontend Developer,Python,3,Avanzado,Remoto Nacional,51000.0
+Mónica Aldo Carmona,Ingeniería Mecatrónica,DevOps Engineer,R,5,Básico,Remoto Nacional,45100.0
+Dr. Adela Espino,Ingeniería de Software,DevOps Engineer,C#,3,Avanzado,Puebla,57700.0
+Anabel Susana Carvajal Negrón,Licenciatura en Matemáticas Aplicadas,Tech Lead,Swift,10,Intermedio,CDMX,110300.0
+Jorge Luis Leonardo Sánchez,Ingeniería Mecatrónica,Data Analyst,R,9,Básico,Puebla,39600.0
+Zeferino Jos Ocasio,Ingeniería en Telemática,Tech Lead,R,6,Avanzado,Remoto Nacional,96700.0
+Dr. Amador Gil,Licenciatura en Matemáticas Aplicadas,Backend Developer,JavaScript,4,Avanzado,CDMX,66100.0
+Dr. Anel Guzmán,Ingeniería en Telemática,Frontend Developer,JavaScript,9,Intermedio,Remoto Nacional,58400.0
+Timoteo Isabel Zedillo Guzmán,Ingeniería en Sistemas Computacionales,Fullstack Developer,C#,7,Avanzado,Guadalajara,84500.0
+Jorge Carlota Lebrón,Ingeniería de Software,Machine Learning Engineer,R,8,Intermedio,Querétaro,67400.0
+Gloria Santacruz Briones,Ingeniería en Telemática,QA Engineer,Java,2,Intermedio,Remoto Internacional,44100.0
+Vanesa Karina Benavídez Reyna,Ingeniería en Inteligencia Artificial,Backend Developer,Swift,9,Básico,Remoto Nacional,50300.0
+Esparta Arredondo Domínguez,Ingeniería en Inteligencia Artificial,QA Engineer,Python,1,Intermedio,Remoto Internacional,40900.0
+Jacinto Jaime Beltrán,Ingeniería en Inteligencia Artificial,DevOps Engineer,C#,6,Intermedio,Monterrey,62900.0
+Carlos Salvador Lugo,Ingeniería en Inteligencia Artificial,Tech Lead,PHP,7,Intermedio,CDMX,96900.0
+Clara Wilfrido Cantú,Licenciatura en Matemáticas Aplicadas,Data Scientist,PHP,5,Intermedio,Monterrey,62400.0
+Emilio Vallejo,Licenciatura en Ciencia de Datos,Tech Lead,C#,11,Intermedio,Querétaro,104500.0
+Adán Bétancourt,Licenciatura en Actuaría,DevOps Engineer,Python,2,Intermedio,CDMX,49000.0
+Úrsula Duarte Zapata,Ingeniería de Software,QA Engineer,Swift,3,Intermedio,Guadalajara,39100.0
+Ramón Menéndez Puga,Ingeniería de Software,Tech Lead,PHP,11,Básico,Puebla,70500.0
+Lic. Adriana Carvajal,Ingeniería en Sistemas Computacionales,Data Analyst,JavaScript,8,Intermedio,Puebla,44200.0
+Rubén Pablo Bonilla,Licenciatura en Actuaría,DevOps Engineer,PHP,10,Avanzado,CDMX,119900.0
+Irma Anel Echeverría,Ingeniería de Software,Frontend Developer,R,3,Básico,Remoto Nacional,32200.0
+Homero Lara Durán,Ingeniería en Sistemas Computacionales,QA Engineer,PHP,7,Avanzado,Monterrey,76100.0
+Ing. María José Valenzuela,Ingeniería de Software,Frontend Developer,JavaScript,10,Avanzado,Querétaro,77900.0
+Minerva Amador Zamora,Ingeniería en Sistemas Computacionales,Tech Lead,JavaScript,9,Básico,Querétaro,76400.0
+Daniela Zarate del Valle,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,Java,8,Básico,CDMX,53300.0
+Lic. Sessa Casas,Ingeniería en Inteligencia Artificial,Frontend Developer,PHP,6,Intermedio,Mérida,38300.0
+Dr. Ricardo Frías,Licenciatura en Actuaría,DevOps Engineer,Java,9,Avanzado,Monterrey,104100.0
+Oswaldo Urías Vélez,Licenciatura en Actuaría,DevOps Engineer,R,10,Básico,Monterrey,68000.0
+Barbara Gollum Guzmán,Ingeniería en Sistemas Computacionales,DevOps Engineer,C#,2,Avanzado,Mérida,48600.0
+Mauro Cortez,Ingeniería de Software,Machine Learning Engineer,Java,3,Básico,Puebla,46800.0
+Sr(a). Pedro Cabán,Ingeniería en Telemática,Backend Developer,Swift,1,Intermedio,Remoto Nacional,32300.0
+Esmeralda Marcela Bernal Jurado,Ingeniería en Sistemas Computacionales,QA Engineer,R,3,Básico,Remoto Internacional,38000.0
+Ángela Olmos Alejandro,Ingeniería Mecatrónica,Data Scientist,Python,4,Avanzado,Querétaro,74900.0
+Violeta Vicente Posada Concepción,Ingeniería de Software,Junior Developer,Go,2,Avanzado,Guadalajara,35900.0
+Elvira Alejandro,Licenciatura en Matemáticas Aplicadas,Data Scientist,C#,3,Básico,CDMX,50400.0
+Rocío Sofía Ocasio Barajas,Ingeniería Mecatrónica,Junior Developer,Python,2,Intermedio,Guadalajara,26000.0
+Hernán Zayas Noriega,Licenciatura en Matemáticas Aplicadas,Tech Lead,C#,15,Avanzado,Remoto Internacional,192900.0
+Guillermina Esther Zayas,Ingeniería en Sistemas Computacionales,Frontend Developer,R,9,Avanzado,Remoto Nacional,73900.0
+Gloria Maximiliano Raya Rivero,Ingeniería en Sistemas Computacionales,Machine Learning Engineer,Go,5,Avanzado,Remoto Internacional,116700.0
+Lic. Esmeralda Saavedra,Licenciatura en Matemáticas Aplicadas,Tech Lead,PHP,14,Básico,Remoto Nacional,83200.0
+Benjamín Castellanos,Ingeniería en Sistemas Computacionales,QA Engineer,R,8,Intermedio,Remoto Internacional,72300.0
+Lucía Silvano Echeverría,Licenciatura en Matemáticas Aplicadas,Junior Developer,Go,1,Intermedio,Remoto Nacional,22200.0
+Marcos Octavio Núñez Valdez,Ingeniería en Sistemas Computacionales,Frontend Developer,R,7,Avanzado,Remoto Nacional,66300.0
+Juan Carlos Ramón Bernal,Ingeniería de Software,Backend Developer,Java,3,Intermedio,Guadalajara,48400.0
+Aldonza Guerrero,Ingeniería en Inteligencia Artificial,Machine Learning Engineer,R,8,Intermedio,CDMX,83600.0
+Juan Carlos Cotto,Ingeniería en Sistemas Computacionales,Data Analyst,JavaScript,1,Básico,Mérida,20000.0
+Marcela Rodríguez Aguilar,Licenciatura en Matemáticas Aplicadas,Fullstack Developer,PHP,8,Avanzado,CDMX,99400.0
+Ing. Carolina Rincón,Licenciatura en Matemáticas Aplicadas,Frontend Developer,JavaScript,5,Básico,Remoto Internacional,52600.0
